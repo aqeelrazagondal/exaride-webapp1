@@ -1,0 +1,160 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Socket.IO chat</title>
+    <style>
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      body { font: 13px Helvetica, Arial; }
+      form { background: #000; padding: 3px; position: fixed; bottom: 0; width: 100%; }
+      form input { border: 0; padding: 10px; width: 90%; margin-right: .5%; }
+      form button { width: 9%; background: rgb(130, 224, 255); border: none; padding: 10px; }
+      #messages { list-style-type: none; margin: 0; padding: 0; }
+      #messages li { padding: 5px 10px; }
+      #messages li:nth-child(odd) { background: #eee; }
+	  #contentWrap{
+	  
+	  display:none;
+	  
+	  }
+	   #roomWrap{
+	  
+	  display:none;
+	  
+	  }
+	  #chatWrap{
+	  float:left;
+	  border:1px solid;
+	  
+	  }'
+	  #chat{
+	  height:500px;
+	  }
+    </style>
+  </head>
+ <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
+    <script src="https://aldaalah.herokuapp.com/socket.io/socket.io.js"></script>
+    <script>
+    $(document).ready(function() {
+    var socket = io.connect('https://aldaalah.herokuapp.com');
+	var $users=$('#users');
+	var $chat=$('#chat');
+	var roomId;
+	var user1_Num;
+    var user2_Num;
+	
+	//var $nickForm=$('#setNick');
+	//var $nickError=$('#nickError');
+	//var $nickBox=$('#nickname');
+	/*
+	socket.on('newclientconnect',function(data){
+				  document.body.innerHTML = '';
+				  document.write(data.description);
+		  });
+		  */
+    $('#sender').live('click',function() {
+            var user_message = $('#message_box').val();
+	var msg ={
+     messageType:"text",
+     messageText:user_message,
+     _conversationId:roomId,
+     _messageToMobile:user1_Num,
+     _messageFromMobile:user2_Num
+	 }
+            socket.emit('sendMessage',msg);
+			
+    });
+	
+	socket.on('receiveMessage', function(data) {
+	console.log ("Listening receiveMessage - Data = " + data.messageText );
+	 });
+	
+	 $('#roomBtn').live('click',function() {
+	 console.log('room btn clicled');
+            var user1_Num = $('#user1_box').val()
+            var user2_Num = $('#user2_box').val()
+			socket.emit('createRoom', user1_Num, user2_Num, function(data){
+			//add here
+			
+			if (data)	{
+	console.log('recieved data FROM createRoom');
+	$('#roomWrap').hide();
+	$('#contentWrap').show();
+	}
+	
+			});
+			
+    });
+	
+	socket.on('roomId', function(data) {
+	
+	console.log ("Listening RoomId event - Data = " + data );
+	roomId=data;
+	$('#roomWrap').hide();
+	$('#contentWrap').show();
+	 });
+	
+	$('#NextBtn').live('click',function() {
+	//alert('clicked');
+            var mobileNo = $('#user_phone').val()
+            socket.emit('verifyUser',mobileNo,function(data){
+			console.log("Response From verifyUser :"+data);
+	if (data)	{
+	console.log('recieved data FROM Join');
+	
+	$('#nickWrap').hide();
+	$('#roomWrap').show();
+	}
+	else
+	{
+	alert('Creat User First');
+	}
+	});
+	
+	});
+			
+    
+	
+		
+		socket.on('usernames', function(data) {
+        var html= '';
+		for(i=0;i<data.length;i++)
+		{
+		html+=data[i]+'</br>'
+		}
+		$users.html(html);
+        });
+    });
+</script>
+  <body>
+  
+  <div id="nickWrap">
+	  <p>Enter Your Mobile No </p>
+	  <p id="nickError"></p>
+	  <input type='text' id='user_phone' placeholder='Mobile No.'>
+		<button id='NextBtn'>Next</button>
+
+  </div>
+  
+   <div id ="roomWrap">
+	<div id ="chatWrap">
+		<div id='chat'></div>
+		<input type='text' id='user1_box' placeholder='Your Num.'>
+		<input type='text' id='user2_box' placeholder='other No.'>
+		<button id='roomBtn'>Create Room</button>
+	</div>
+	
+	<div id ="users"></div>
+  </div>
+  
+  <div id ="contentWrap">
+	<div id ="chatWrap">
+		<div id='chat'></div>
+		<input type='text' id='message_box' placeholder='send message'>
+		<button id='sender'>Send Message</button>
+	</div>
+	
+	<div id ="users"></div>
+  </div>
+  
+  </body>
+</html>

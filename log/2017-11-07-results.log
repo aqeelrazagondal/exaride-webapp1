@@ -1,0 +1,54 @@
+{"level":"info","message":"LocationController.updateUserLocation called  :+923345022570**73.0922641**33.5216944","timestamp":"19:40:28"}
+{"level":"info","message":"Marker Length : 6","timestamp":"19:40:29"}
+{"level":"info","message":"marker.loc : 73.011563,33.5930571","timestamp":"19:40:29"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:40:29"}
+{"level":"info","message":"distance: 10900","timestamp":"19:40:29"}
+{"level":"info","message":"marker.loc : 73.092338,33.521715","timestamp":"19:40:29"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:40:29"}
+{"level":"info","message":"distance: 7","timestamp":"19:40:29"}
+{"level":"info","message":"inside Radius, Send Push Notification","timestamp":"19:40:29"}
+{"level":"info","message":"marker.loc : 73.093629,33.522274","timestamp":"19:40:29"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:40:29"}
+{"level":"info","message":"distance: 142","timestamp":"19:40:29"}
+{"level":"info","message":"marker.loc : 73.088243,33.519555","timestamp":"19:40:29"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:40:29"}
+{"level":"info","message":"distance: 443","timestamp":"19:40:29"}
+{"level":"info","message":"marker.loc : 73.086247,33.517694","timestamp":"19:40:29"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:40:29"}
+{"level":"info","message":"distance: 714","timestamp":"19:40:29"}
+{"level":"info","message":"marker.loc : 73.089316,33.520145","timestamp":"19:40:29"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:40:29"}
+{"level":"info","message":"distance: 323","timestamp":"19:40:29"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"19:40:29"}
+{"level":"info","message":"location : 73.0922641,33.5216944","timestamp":"19:40:29"}
+{"level":"info","message":"User Location With Phone Num +923345022570","timestamp":"19:40:29"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"19:40:29"}
+{"level":"info","message":"Sending Notification to player id 27c3ed26-a9f5-4f10-927d-ca8ee7877414","timestamp":"19:40:29"}
+{"level":"info","message":"marker Object : [object Object]","timestamp":"19:40:29"}
+{"level":"info","message":"LocationController.updateUserLocation called  :+923345022570**73.0922641**33.5216944","timestamp":"19:42:17"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"19:42:17"}
+{"level":"info","message":"location : 73.0922641,33.5216944","timestamp":"19:42:17"}
+{"level":"info","message":"User Location With Phone Num +923345022570","timestamp":"19:42:17"}
+{"level":"info","message":"Marker Length : 6","timestamp":"19:42:17"}
+{"level":"info","message":"marker.loc : 73.011563,33.5930571","timestamp":"19:42:17"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:42:17"}
+{"level":"info","message":"distance: 10900","timestamp":"19:42:17"}
+{"level":"info","message":"marker.loc : 73.092338,33.521715","timestamp":"19:42:17"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:42:17"}
+{"level":"info","message":"distance: 7","timestamp":"19:42:17"}
+{"level":"info","message":"inside Radius, Send Push Notification","timestamp":"19:42:17"}
+{"level":"info","message":"marker.loc : 73.093629,33.522274","timestamp":"19:42:17"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:42:17"}
+{"level":"info","message":"distance: 142","timestamp":"19:42:17"}
+{"level":"info","message":"marker.loc : 73.088243,33.519555","timestamp":"19:42:17"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:42:17"}
+{"level":"info","message":"distance: 443","timestamp":"19:42:17"}
+{"level":"info","message":"marker.loc : 73.086247,33.517694","timestamp":"19:42:17"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:42:17"}
+{"level":"info","message":"distance: 714","timestamp":"19:42:17"}
+{"level":"info","message":"marker.loc : 73.089316,33.520145","timestamp":"19:42:17"}
+{"level":"info","message":"userLoc : [object Object]","timestamp":"19:42:17"}
+{"level":"info","message":"distance: 323","timestamp":"19:42:17"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"19:42:18"}
+{"level":"info","message":"Sending Notification to player id 27c3ed26-a9f5-4f10-927d-ca8ee7877414","timestamp":"19:42:18"}
+{"level":"info","message":"marker Object : 73.092338**33.521715**20","timestamp":"19:42:18"}

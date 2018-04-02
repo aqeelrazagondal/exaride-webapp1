@@ -1,0 +1,43 @@
+{"level":"info","message":"Disconnect Event \n undefined is disconnected","timestamp":"09:28:11"}
+{"level":"info","message":"Connected Users Count : 0","timestamp":"09:28:11"}
+{"level":"info","message":"Disconnect Event \n undefined is disconnected","timestamp":"09:50:52"}
+{"level":"info","message":"Connected Users Count : 0","timestamp":"09:50:52"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"16:10:11"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022575","timestamp":"16:10:12"}
+{"level":"info","message":"UserExists Method Called","timestamp":"16:10:12"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"16:10:12"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"16:10:12"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"16:11:13"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022575","timestamp":"16:11:13"}
+{"level":"info","message":"UserExists Method Called","timestamp":"16:11:13"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"16:11:13"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"16:11:13"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"16:13:17"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022575","timestamp":"16:13:17"}
+{"level":"info","message":"UserExists Method Called","timestamp":"16:13:17"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"16:13:17"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"16:13:17"}
+{"level":"info","message":"User Not Found with Phone Num. :+923345022575","timestamp":"16:13:19"}
+{"level":"info","message":"User Created With Phone Num +923345022575","timestamp":"16:13:19"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923345022575 - 1234","timestamp":"16:14:23"}
+{"level":"info","message":"UserExists Method Called","timestamp":"16:14:23"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"16:14:23"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"16:14:23"}
+{"level":"info","message":"User Found with Phone Num. :+923345022575","timestamp":"16:14:24"}
+{"level":"info","message":"RegistrationController.syncContacts called  :","timestamp":"16:14:45"}
+{"level":"info","message":"RegistrationController.syncContacts called  :","timestamp":"16:15:42"}
+{"level":"info","message":" Exit RegistrationController.syncContacts Method","timestamp":"16:15:42"}
+{"level":"info","message":"LocationController.updateUserLocation called  :+923345022570**1111111**2222222","timestamp":"23:56:44"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"23:56:46"}
+{"level":"info","message":"LocationController.updateUserLocation called  :+923345022570**1111111**2222222","timestamp":"00:04:43"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"00:04:43"}
+{"level":"info","message":"location : 1111111,2222222","timestamp":"00:04:43"}
+{"level":"error","message":"Some Error while updating userMongoError: point not in interval of [ -180, 180 ] :: caused by :: { _id: ObjectId('59af97049d57ac10ece4b6b1'), updatedAt: new Date(1505243083976), createdAt: new Date(1504679684109), phone: \"+923345022570\", country_code: \"+92\", verified_user: true, __v: 1, OS: \"Android\", active: false, full_name: \"Saif\", profile_photo_url: \"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAA1DAAAAJDAzYjg1ZDYwLTI1YjQtNDJkOS04OTkwLTUyMjkwNGJiMTY4Yg.jpg\", loc: [ 1111111, 2222222 ] }","timestamp":"00:04:44"}
+{"level":"info","message":"LocationController.updateUserLocation called  :+923345022570**-73.97**40.77","timestamp":"00:06:40"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"00:06:41"}
+{"level":"info","message":"location : -73.97,40.77","timestamp":"00:06:41"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"00:06:41"}
+{"level":"info","message":"LocationController.updateUserLocation called  :+923345022570**-73.97**40.77","timestamp":"00:14:22"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"00:14:23"}
+{"level":"info","message":"location : -73.97,40.77","timestamp":"00:14:23"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"00:14:23"}

@@ -1,0 +1,116 @@
+{"level":"info","message":"in routes get groupMembers","timestamp":"12:06:48"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"12:06:48"}
+{"level":"info","message":"4 members Found","timestamp":"12:06:49"}
+{"level":"info","message":"Group members list size 4","timestamp":"12:06:49"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 4","timestamp":"12:06:49"}
+{"level":"info","message":"Member Phone No : +923115436350","timestamp":"12:06:49"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Member Phone No : +923124999213","timestamp":"12:06:49"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Member Phone No : +923311334441","timestamp":"12:06:49"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Member Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"user found with phone no +923115436350","timestamp":"12:06:49"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59b14f10a7c78b0012a237fb,\n  updatedAt: 2017-10-13T11:50:22.111Z,\n  createdAt: 2017-09-07T13:52:16.558Z,\n  phone: '+923115436350',\n  country_code: '+92',\n  verified_user: true,\n  __v: 1772,\n  OS: 'Android',\n  active: false,\n  full_name: 'Sajid Abbas',\n  loc: [ 73.092673, 33.522166 ],\n  palyer_id: '38792a6d-7730-443c-8915-eab0545132ae',\n  verification_code: '7860',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1507874851010.png' }","timestamp":"12:06:49"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Its Admin","timestamp":"12:06:49"}
+{"level":"info","message":"Member Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59af97049d57ac10ece4b6b1,\n  updatedAt: 2017-10-28T16:43:35.312Z,\n  createdAt: 2017-09-06T06:34:44.109Z,\n  phone: '+923345022570',\n  country_code: '+92',\n  verified_user: true,\n  __v: 1474,\n  OS: 'Android',\n  active: false,\n  full_name: 'Saifi',\n  loc: [ 73.0726119, 33.6235883 ],\n  palyer_id: '27c3ed26-a9f5-4f10-927d-ca8ee7877414',\n  deactivate_user: true,\n  verification_code: '1839',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1509005755712.jpg' }","timestamp":"12:06:49"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Its Admin","timestamp":"12:06:49"}
+{"level":"info","message":"Member Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"12:06:49"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59b14caea7c78b0012a237f6,\n  updatedAt: 2017-09-21T09:22:54.204Z,\n  createdAt: 2017-09-07T13:42:06.686Z,\n  phone: '+923311334441',\n  country_code: '+92',\n  verified_user: true,\n  __v: 7,\n  OS: 'Android',\n  active: false,\n  full_name: 'Umer',\n  palyer_id: '03bd1410-c6f1-4e14-9e12-02e6fd718691',\n  loc: [ 73.0923786, 33.5212304 ],\n  share_location: true,\n  profile_photo_url: 'https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAA1DAAAAJDAzYjg1ZDYwLTI1YjQtNDJkOS04OTkwLTUyMjkwNGJiMTY4Yg.jpg' }","timestamp":"12:06:49"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Its Admin","timestamp":"12:06:49"}
+{"level":"info","message":"Member Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"user found with phone no +923124999213","timestamp":"12:06:49"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59b55d08c3f0850012b7981c,\n  updatedAt: 2017-10-28T11:44:42.530Z,\n  createdAt: 2017-09-10T15:40:56.203Z,\n  phone: '+923124999213',\n  country_code: '+92',\n  verified_user: true,\n  __v: 785,\n  OS: 'Android',\n  active: false,\n  full_name: 'Nadeem',\n  loc: [ 73.0922958, 33.52157 ],\n  palyer_id: 'ce522914-334e-4a78-a7a0-efacf47f5a59',\n  deactivate_user: true,\n  verification_code: '1873',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/undefined' }","timestamp":"12:06:49"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Its Admin","timestamp":"12:06:49"}
+{"level":"info","message":"Member Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:06:49"}
+{"level":"info","message":"in routes get groupMembers","timestamp":"12:20:05"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"12:20:05"}
+{"level":"info","message":"4 members Found","timestamp":"12:20:06"}
+{"level":"info","message":"Group members list size 4","timestamp":"12:20:06"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 4","timestamp":"12:20:06"}
+{"level":"info","message":"Member Phone No  before : +923115436350","timestamp":"12:20:06"}
+{"level":"info","message":"Admin Phone No before : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Member Phone No  before : +923124999213","timestamp":"12:20:06"}
+{"level":"info","message":"Admin Phone No before : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Member Phone No  before : +923311334441","timestamp":"12:20:06"}
+{"level":"info","message":"Admin Phone No before : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Member Phone No  before : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Admin Phone No before : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"12:20:06"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59b14caea7c78b0012a237f6,\n  updatedAt: 2017-09-21T09:22:54.204Z,\n  createdAt: 2017-09-07T13:42:06.686Z,\n  phone: '+923311334441',\n  country_code: '+92',\n  verified_user: true,\n  __v: 7,\n  OS: 'Android',\n  active: false,\n  full_name: 'Umer',\n  palyer_id: '03bd1410-c6f1-4e14-9e12-02e6fd718691',\n  loc: [ 73.0923786, 33.5212304 ],\n  share_location: true,\n  profile_photo_url: 'https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAA1DAAAAJDAzYjg1ZDYwLTI1YjQtNDJkOS04OTkwLTUyMjkwNGJiMTY4Yg.jpg' }","timestamp":"12:20:06"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Its Admin","timestamp":"12:20:06"}
+{"level":"info","message":"Member Phone No : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"user found with phone no +923115436350","timestamp":"12:20:06"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59b14f10a7c78b0012a237fb,\n  updatedAt: 2017-10-13T11:50:22.111Z,\n  createdAt: 2017-09-07T13:52:16.558Z,\n  phone: '+923115436350',\n  country_code: '+92',\n  verified_user: true,\n  __v: 1772,\n  OS: 'Android',\n  active: false,\n  full_name: 'Sajid Abbas',\n  loc: [ 73.092673, 33.522166 ],\n  palyer_id: '38792a6d-7730-443c-8915-eab0545132ae',\n  verification_code: '7860',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1507874851010.png' }","timestamp":"12:20:06"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Its Admin","timestamp":"12:20:06"}
+{"level":"info","message":"Member Phone No : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"user found with phone no +923124999213","timestamp":"12:20:06"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59b55d08c3f0850012b7981c,\n  updatedAt: 2017-10-28T11:44:42.530Z,\n  createdAt: 2017-09-10T15:40:56.203Z,\n  phone: '+923124999213',\n  country_code: '+92',\n  verified_user: true,\n  __v: 785,\n  OS: 'Android',\n  active: false,\n  full_name: 'Nadeem',\n  loc: [ 73.0922958, 33.52157 ],\n  palyer_id: 'ce522914-334e-4a78-a7a0-efacf47f5a59',\n  deactivate_user: true,\n  verification_code: '1873',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/undefined' }","timestamp":"12:20:06"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Its Admin","timestamp":"12:20:06"}
+{"level":"info","message":"Member Phone No : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59af97049d57ac10ece4b6b1,\n  updatedAt: 2017-10-28T16:43:35.312Z,\n  createdAt: 2017-09-06T06:34:44.109Z,\n  phone: '+923345022570',\n  country_code: '+92',\n  verified_user: true,\n  __v: 1474,\n  OS: 'Android',\n  active: false,\n  full_name: 'Saifi',\n  loc: [ 73.0726119, 33.6235883 ],\n  palyer_id: '27c3ed26-a9f5-4f10-927d-ca8ee7877414',\n  deactivate_user: true,\n  verification_code: '1839',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1509005755712.jpg' }","timestamp":"12:20:06"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Its Admin","timestamp":"12:20:06"}
+{"level":"info","message":"Member Phone No : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:20:06"}
+{"level":"info","message":"in routes get groupMembers","timestamp":"12:22:23"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"12:22:23"}
+{"level":"info","message":"4 members Found","timestamp":"12:22:24"}
+{"level":"info","message":"Group members list size 4","timestamp":"12:22:24"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 4","timestamp":"12:22:24"}
+{"level":"info","message":"in routes get groupMembers","timestamp":"12:24:15"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"12:24:15"}
+{"level":"info","message":"4 members Found","timestamp":"12:24:16"}
+{"level":"info","message":"Group members list size 4","timestamp":"12:24:16"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 4","timestamp":"12:24:16"}
+{"level":"info","message":"Member Phone No  before : +923115436350","timestamp":"12:24:16"}
+{"level":"info","message":"Admin Phone No before : +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"Member Phone No  before : +923124999213","timestamp":"12:24:16"}
+{"level":"info","message":"Admin Phone No before : +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"Member Phone No  before : +923311334441","timestamp":"12:24:16"}
+{"level":"info","message":"Admin Phone No before : +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"Member Phone No  before : +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"Admin Phone No before : +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"user found with phone no +923115436350","timestamp":"12:24:16"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59b14f10a7c78b0012a237fb,\n  updatedAt: 2017-10-13T11:50:22.111Z,\n  createdAt: 2017-09-07T13:52:16.558Z,\n  phone: '+923115436350',\n  country_code: '+92',\n  verified_user: true,\n  __v: 1772,\n  OS: 'Android',\n  active: false,\n  full_name: 'Sajid Abbas',\n  loc: [ 73.092673, 33.522166 ],\n  palyer_id: '38792a6d-7730-443c-8915-eab0545132ae',\n  verification_code: '7860',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1507874851010.png' }","timestamp":"12:24:16"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"Its Non  Admin","timestamp":"12:24:16"}
+{"level":"info","message":"Member Phone No  in chk : +923115436350","timestamp":"12:24:16"}
+{"level":"info","message":"Admin Phone No in chk : +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59af97049d57ac10ece4b6b1,\n  updatedAt: 2017-10-28T16:43:35.312Z,\n  createdAt: 2017-09-06T06:34:44.109Z,\n  phone: '+923345022570',\n  country_code: '+92',\n  verified_user: true,\n  __v: 1474,\n  OS: 'Android',\n  active: false,\n  full_name: 'Saifi',\n  loc: [ 73.0726119, 33.6235883 ],\n  palyer_id: '27c3ed26-a9f5-4f10-927d-ca8ee7877414',\n  deactivate_user: true,\n  verification_code: '1839',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1509005755712.jpg' }","timestamp":"12:24:16"}
+{"level":"info","message":"User Found For Phone No: +923115436350","timestamp":"12:24:16"}
+{"level":"info","message":"Its Admin","timestamp":"12:24:16"}
+{"level":"info","message":"Member Phone No : +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"Admin Phone No : +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"user found with phone no +923124999213","timestamp":"12:24:16"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59b55d08c3f0850012b7981c,\n  updatedAt: 2017-10-28T11:44:42.530Z,\n  createdAt: 2017-09-10T15:40:56.203Z,\n  phone: '+923124999213',\n  country_code: '+92',\n  verified_user: true,\n  __v: 785,\n  OS: 'Android',\n  active: false,\n  full_name: 'Nadeem',\n  loc: [ 73.0922958, 33.52157 ],\n  palyer_id: 'ce522914-334e-4a78-a7a0-efacf47f5a59',\n  deactivate_user: true,\n  verification_code: '1873',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/undefined' }","timestamp":"12:24:16"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"Its Non  Admin","timestamp":"12:24:16"}
+{"level":"info","message":"Member Phone No  in chk : +923124999213","timestamp":"12:24:16"}
+{"level":"info","message":"Admin Phone No in chk : +923345022570","timestamp":"12:24:16"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"12:24:16"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59b14caea7c78b0012a237f6,\n  updatedAt: 2017-09-21T09:22:54.204Z,\n  createdAt: 2017-09-07T13:42:06.686Z,\n  phone: '+923311334441',\n  country_code: '+92',\n  verified_user: true,\n  __v: 7,\n  OS: 'Android',\n  active: false,\n  full_name: 'Umer',\n  palyer_id: '03bd1410-c6f1-4e14-9e12-02e6fd718691',\n  loc: [ 73.0923786, 33.5212304 ],\n  share_location: true,\n  profile_photo_url: 'https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAA1DAAAAJDAzYjg1ZDYwLTI1YjQtNDJkOS04OTkwLTUyMjkwNGJiMTY4Yg.jpg' }","timestamp":"12:24:16"}
+{"level":"info","message":"User Found For Phone No: +923124999213","timestamp":"12:24:16"}
+{"level":"info","message":"Its Non  Admin","timestamp":"12:24:16"}
+{"level":"info","message":"Member Phone No  in chk : +923311334441","timestamp":"12:24:16"}
+{"level":"info","message":"Admin Phone No in chk : +923345022570","timestamp":"12:24:16"}

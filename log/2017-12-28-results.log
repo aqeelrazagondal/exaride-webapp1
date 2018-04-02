@@ -1,0 +1,53 @@
+{"level":"info","message":"RegistrationController.verifyCode called  :+923345022570 - 0987","timestamp":"16:27:55"}
+{"level":"info","message":"UserExists Method Called","timestamp":"16:27:55"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"16:27:55"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"16:27:55"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"16:27:55"}
+{"level":"info","message":"Wrong Code Sent For Verifcation :0987","timestamp":"16:27:55"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923345022570 - 1234","timestamp":"16:28:06"}
+{"level":"info","message":"UserExists Method Called","timestamp":"16:28:06"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"16:28:06"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"16:28:06"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"16:28:07"}
+{"level":"info","message":"in routes get Locations","timestamp":"18:53:30"}
+{"level":"info","message":"11 Markers Found","timestamp":"18:53:30"}
+{"level":"info","message":"Response Of findAllLocations Method","timestamp":"18:53:30"}
+{"level":"info","message":"LocationController.addMarkerCategory called  :Hajj","timestamp":"19:07:43"}
+{"level":"info","message":"MarkerCategory Created : Hajj","timestamp":"19:07:44"}
+{"level":"info","message":"LocationController.setMarker called  :category ID Marker**72.089316**31.520145","timestamp":"20:33:13"}
+{"level":"info","message":"Marker Created : category ID Marker","timestamp":"20:33:13"}
+{"level":"info","message":"LocationController.setMarker called  :Befor change marker**72.089316**31.520145","timestamp":"20:34:41"}
+{"level":"info","message":"Marker Created : Befor change marker","timestamp":"20:34:42"}
+{"level":"info","message":"deleteMarker Method Called for id : 5a450f1150dd722d601e5750","timestamp":"20:50:41"}
+{"level":"info","message":"Marker with id 5a450f1150dd722d601e5750 suuccessfully Removed","timestamp":"20:50:42"}
+{"level":"info","message":"deleteMarker Method Called for id : 5a450f1150dd722d601e5750","timestamp":"20:54:40"}
+{"level":"info","message":"Marker with id 5a450f1150dd722d601e5750 successfully Removed","timestamp":"20:54:40"}
+{"level":"info","message":"deleteMarker Method Called for id : 5a450f1150dd722d601e5750","timestamp":"20:54:43"}
+{"level":"info","message":"Marker with id 5a450f1150dd722d601e5750 successfully Removed","timestamp":"20:54:44"}
+{"level":"info","message":"deleteMarker Method Called for id : 5a450eb950dd722d601e574f","timestamp":"20:56:38"}
+{"level":"info","message":"Marker with id 5a450eb950dd722d601e574f successfully Removed","timestamp":"20:56:38"}
+{"level":"info","message":"LocationController.updateMarker called  :Saif Home Updated**72.089316**31.520145","timestamp":"21:06:00"}
+{"level":"info","message":"markerExists Method Called","timestamp":"21:06:00"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"21:06:00"}
+{"level":"info","message":"Marker Found  :","timestamp":"21:06:00"}
+{"level":"error","message":"Some Error while updating markerValidationError: _categoryId: Cast to ObjectID failed for value \"1213\" at path \"_categoryId\"","timestamp":"21:06:00"}
+{"level":"info","message":"LocationController.updateMarker called  :Saif Home Updated**72.089316**31.520145","timestamp":"21:07:54"}
+{"level":"info","message":"markerExists Method Called","timestamp":"21:07:54"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"21:07:54"}
+{"level":"info","message":"Marker Found  :","timestamp":"21:07:54"}
+{"level":"error","message":"Some Error while updating markerValidationError: _categoryId: Cast to ObjectID failed for value \"123\" at path \"_categoryId\"","timestamp":"21:07:54"}
+{"level":"info","message":"LocationController.updateMarker called  :Saif Home Updated**72.089316**31.520145","timestamp":"21:08:06"}
+{"level":"info","message":"markerExists Method Called","timestamp":"21:08:06"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"21:08:06"}
+{"level":"info","message":"Marker Found  :","timestamp":"21:08:06"}
+{"level":"info","message":"marker updated  ","timestamp":"21:08:06"}
+{"level":"info","message":"LocationController.updateMarker called  :Saif Home Updated 2**72.089316**31.520145","timestamp":"21:09:57"}
+{"level":"info","message":"markerExists Method Called","timestamp":"21:09:57"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"21:09:57"}
+{"level":"info","message":"Marker Found  :","timestamp":"21:09:58"}
+{"level":"info","message":"marker updated  ","timestamp":"21:09:58"}
+{"level":"info","message":"LocationController.updateMarker called  :Saif Home Updated 2**72.089316**31.520145","timestamp":"21:16:08"}
+{"level":"info","message":"markerExists Method Called","timestamp":"21:16:08"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"21:16:08"}
+{"level":"info","message":"Marker Found  :","timestamp":"21:16:09"}
+{"level":"info","message":"marker updated  ","timestamp":"21:16:09"}

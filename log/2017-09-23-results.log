@@ -1,0 +1,72 @@
+{"level":"info","message":"File Is uploaded","timestamp":"13:35:27"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"13:35:27"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:35:27"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:35:27"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"13:35:27"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"13:35:28"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"13:35:28"}
+{"level":"info","message":"File Is uploaded","timestamp":"13:38:16"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"13:38:16"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:38:16"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:38:16"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"13:38:16"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"13:38:19"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"13:38:19"}
+{"level":"info","message":"File Is uploaded","timestamp":"13:46:19"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"13:46:19"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:46:19"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:46:19"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"13:46:19"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"13:46:20"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"13:46:20"}
+{"level":"info","message":"File Is uploaded","timestamp":"13:54:16"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"13:54:16"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:54:16"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:54:16"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"13:54:16"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"13:54:16"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"13:54:16"}
+{"level":"info","message":"File Is uploaded","timestamp":"13:55:23"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"13:55:23"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:55:23"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:55:23"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"13:55:23"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"13:55:24"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"13:55:24"}
+{"level":"info","message":"File Is uploaded","timestamp":"13:55:59"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"13:55:59"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:55:59"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:55:59"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"13:55:59"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"13:55:59"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"13:55:59"}
+{"level":"info","message":"File Is uploaded","timestamp":"14:04:55"}
+{"level":"info","message":"profilePhotoUrlhttps://aldaalah.herokuapp.com/images/profileImagesprofilePhoto-1506157495477.jpg","timestamp":"14:04:55"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"14:04:55"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:04:55"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:04:55"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"14:04:55"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"14:04:55"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"14:04:56"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"14:11:45"}
+{"level":"info","message":"RegistrationController.updateProfilePhoto called for user  :+923345022570","timestamp":"14:11:45"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:11:45"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:11:45"}
+{"level":"info","message":" Exit RegistrationController.updateProfilePhoto Method","timestamp":"14:11:45"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"14:11:45"}
+{"level":"info","message":"User Profile Photo updated With Phone Num +923345022570","timestamp":"14:11:46"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"14:13:30"}
+{"level":"info","message":"RegistrationController.updateProfilePhoto called for user  :+923345022570","timestamp":"14:13:30"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:13:30"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:13:30"}
+{"level":"info","message":" Exit RegistrationController.updateProfilePhoto Method","timestamp":"14:13:30"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"14:13:30"}
+{"level":"info","message":"User Profile Photo updated With Phone Num +923345022570","timestamp":"14:13:30"}
+{"level":"info","message":"File Is uploaded","timestamp":"14:14:24"}
+{"level":"info","message":"profilePhotoUrlhttps://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1506158064271.jpg","timestamp":"14:14:24"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"14:14:24"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:14:24"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:14:24"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"14:14:24"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"14:14:24"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"14:14:24"}

@@ -1,0 +1,6 @@
+{"level":"info","message":"in routes get markers","timestamp":"15:48:24"}
+{"level":"info","message":"12 Markers Found","timestamp":"15:48:24"}
+{"level":"info","message":"Response Of findAllMarkers Method","timestamp":"15:48:24"}
+{"level":"info","message":"in routes get markers","timestamp":"15:51:17"}
+{"level":"info","message":"1 MarkerCategory Found","timestamp":"15:51:17"}
+{"level":"info","message":"Response Of findAllMarkerCategories Method","timestamp":"15:51:17"}

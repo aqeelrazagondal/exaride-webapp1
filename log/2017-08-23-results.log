@@ -1,0 +1,103 @@
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"1:06:03 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:06:03 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"1:06:04 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"1:06:08 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:06:08 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"1:06:09 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:3333","timestamp":"1:06:18 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:06:18 PM"}
+{"level":"info","message":"User Found For Phone No: 3333","timestamp":"1:06:19 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:4444","timestamp":"1:06:53 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:06:53 PM"}
+{"level":"info","message":"User Found For Phone No: 4444","timestamp":"1:06:53 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"1:07:40 PM"}
+{"level":"info","message":"Room does not exist 11112222","timestamp":"1:07:40 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"1:07:40 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"1:07:59 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"1:07:59 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"1:11:54 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:11:54 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"1:11:55 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"1:12:01 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:12:01 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"1:12:01 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"1:12:15 PM"}
+{"level":"info","message":"Room does not exist 11112222","timestamp":"1:12:15 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"1:12:15 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"1:12:34 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"1:12:34 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"1:17:57 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:17:57 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"1:17:58 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"1:18:02 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:18:02 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"1:18:02 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:3333","timestamp":"1:18:08 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:18:08 PM"}
+{"level":"info","message":"User Found For Phone No: 3333","timestamp":"1:18:08 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:4444","timestamp":"1:18:14 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:18:14 PM"}
+{"level":"info","message":"User Found For Phone No: 4444","timestamp":"1:18:14 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"1:18:23 PM"}
+{"level":"info","message":"Room does not exist 11112222","timestamp":"1:18:23 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"1:18:23 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"1:18:31 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"1:18:31 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"1:19:07 PM"}
+{"level":"info","message":"Room does not exist 33334444","timestamp":"1:19:07 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"1:19:07 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"1:19:51 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"1:19:51 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:5555","timestamp":"1:22:33 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:22:33 PM"}
+{"level":"info","message":"User Found For Phone No: 5555","timestamp":"1:22:34 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:6666","timestamp":"1:22:38 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"1:22:38 PM"}
+{"level":"info","message":"User Found For Phone No: 6666","timestamp":"1:22:39 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"1:22:56 PM"}
+{"level":"info","message":"Room does not exist 55556666","timestamp":"1:22:56 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"1:22:56 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"1:23:25 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"1:23:25 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"3:49:51 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"3:49:51 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"3:49:51 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"3:49:56 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"3:49:56 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"3:49:56 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"3:50:05 PM"}
+{"level":"info","message":"Room does not exist 11112222","timestamp":"3:50:05 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"3:50:05 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"3:50:14 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"3:50:14 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"3:50:28 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"3:50:28 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"3:50:29 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"3:50:37 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"3:50:37 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"7:02:13 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"7:02:13 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"7:02:13 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"7:02:19 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"7:02:19 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"7:02:19 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"7:02:26 PM"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"7:02:26 PM"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"7:02:26 PM"}
+{"level":"info","message":"Room does not exist 11112222","timestamp":"7:02:26 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"7:02:26 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"7:03:25 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"7:03:25 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"7:03:25 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"7:03:35 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"7:03:35 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"7:03:36 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"7:03:43 PM"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"7:03:43 PM"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"7:03:43 PM"}
+{"level":"info","message":"Room does not exist 11112222","timestamp":"7:03:43 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"7:03:43 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"7:03:54 PM"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"7:03:54 PM"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"7:03:54 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"7:03:54 PM"}

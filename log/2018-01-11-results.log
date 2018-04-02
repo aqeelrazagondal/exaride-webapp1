@@ -1,0 +1,23 @@
+{"level":"info","message":"LocationController.updateMarker called  :sdsd**33.945353643000395**71.81273460388184","timestamp":"14:32:09"}
+{"level":"info","message":"markerExists Method Called","timestamp":"14:32:09"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"14:32:09"}
+{"level":"info","message":"LocationController.updateMarker called  :sdsd**33.945353643000395**71.81273460388184","timestamp":"14:34:30"}
+{"level":"info","message":"markerExists Method Called","timestamp":"14:34:30"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"14:34:30"}
+{"level":"info","message":"Marker Not Found ","timestamp":"14:34:31"}
+{"level":"info","message":"Marker Not Found to Update  ","timestamp":"14:34:31"}
+{"level":"info","message":"LocationController.updateMarker called  :sdsd**33.945353643000395**71.81273460388184","timestamp":"14:40:30"}
+{"level":"info","message":"markerExists Method Called","timestamp":"14:40:30"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"14:40:30"}
+{"level":"info","message":"Marker Not Found with id :undefined","timestamp":"14:40:31"}
+{"level":"info","message":"Marker Not Found to Update  ","timestamp":"14:40:31"}
+{"level":"info","message":"LocationController.updateMarker called  :sdsd**33.945353643000395**71.81273460388184","timestamp":"14:42:05"}
+{"level":"info","message":"markerExists Method Called","timestamp":"14:42:05"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"14:42:05"}
+{"level":"info","message":"Marker Found with id :5a571a0324b52f0014731167","timestamp":"14:42:05"}
+{"level":"info","message":"marker updated  ","timestamp":"14:42:06"}
+{"level":"info","message":"LocationController.updateMarker called  :Zohaib's Home**33.5930571**73.011563","timestamp":"14:44:40"}
+{"level":"info","message":"markerExists Method Called","timestamp":"14:44:40"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"14:44:40"}
+{"level":"info","message":"Marker Found with id :59e8e7e357f0b40012900dee","timestamp":"14:44:40"}
+{"level":"info","message":"marker updated  ","timestamp":"14:44:40"}

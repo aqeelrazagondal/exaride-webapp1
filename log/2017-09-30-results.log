@@ -1,0 +1,54 @@
+{"level":"info","message":"addGroupMember Method Called","timestamp":"23:33:44"}
+{"level":"info","message":"conversation Found with Phone Num. :59cf96a81542810012b53be1","timestamp":"23:33:54"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to +923115436350","timestamp":"23:33:54"}
+{"level":"info","message":"User Found For Phone No: +923115436350","timestamp":"23:33:55"}
+{"level":"info","message":"Sending Notification to player id 38792a6d-7730-443c-8915-eab0545132ae","timestamp":"23:33:55"}
+{"level":"info","message":"Conversation user saved with phoneNo :+923115436350","timestamp":"23:33:55"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"23:34:26"}
+{"level":"info","message":"conversation Found with Phone Num. :59cf96a81542810012b53be1","timestamp":"23:34:27"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to 121212","timestamp":"23:34:27"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to 12121","timestamp":"23:34:27"}
+{"level":"info","message":"User not Found For Phone No: 12121","timestamp":"23:34:27"}
+{"level":"info","message":"User not Found For Phone No: 12121","timestamp":"23:34:27"}
+{"level":"info","message":"Conversation user saved with phoneNo :121212","timestamp":"23:34:27"}
+{"level":"info","message":"Conversation user saved with phoneNo :12121","timestamp":"23:34:27"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"23:58:42"}
+{"level":"info","message":"An Exception occured ChatController.createGroup SyntaxError: Unexpected token o in JSON at position 1","timestamp":"23:58:42"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"23:59:51"}
+{"level":"info","message":"An Exception occured ChatController.createGroup SyntaxError: Unexpected token o in JSON at position 1","timestamp":"23:59:51"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"00:43:45"}
+{"level":"info","message":"ChatController.updateGroupProfilePhoto called for converation  :59cf96a81542810012b53be1","timestamp":"00:43:45"}
+{"level":"info","message":" Exit ChatController.updateGroupProfilePhoto Method","timestamp":"00:43:45"}
+{"level":"info","message":"Group Profile Photo updated With conversationId59cf96a81542810012b53be1","timestamp":"00:43:46"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"00:44:31"}
+{"level":"info","message":"ChatController.updateGroupProfilePhoto called for converation  :59cf96a81542810012b53be1","timestamp":"00:44:31"}
+{"level":"info","message":" Exit ChatController.updateGroupProfilePhoto Method","timestamp":"00:44:31"}
+{"level":"info","message":"Group Profile Photo updated With conversationId59cf96a81542810012b53be1","timestamp":"00:44:32"}
+{"level":"info","message":"data received after updating Group profile picture","timestamp":"00:44:32"}
+{"level":"info","message":"ChatController.updateGroupName called for user  :59cf96a81542810012b53be1","timestamp":"00:44:32"}
+{"level":"info","message":" Exit ChatController.updateGroupName Method","timestamp":"00:44:32"}
+{"level":"info","message":"Group Name updated With ConversationId 59cf96a81542810012b53be1","timestamp":"00:44:33"}
+{"level":"info","message":"data received after updating profile picture","timestamp":"00:44:33"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"01:03:15"}
+{"level":"info","message":"RegistrationController.updateProfilePhoto called for user  :+923345022570","timestamp":"01:03:15"}
+{"level":"info","message":"UserExists Method Called","timestamp":"01:03:15"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"01:03:15"}
+{"level":"info","message":" Exit RegistrationController.updateProfilePhoto Method","timestamp":"01:03:15"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"01:03:16"}
+{"level":"info","message":"User Profile Photo updated With Phone Num +923345022570","timestamp":"01:03:16"}
+{"level":"info","message":"data received after updating profile picture","timestamp":"01:03:16"}
+{"level":"info","message":"RegistrationController.updateName called for user  :+923345022570","timestamp":"01:03:16"}
+{"level":"info","message":"UserExists Method Called","timestamp":"01:03:16"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"01:03:16"}
+{"level":"info","message":" Exit RegistrationController.updateName Method","timestamp":"01:03:16"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"01:03:17"}
+{"level":"info","message":"User Name updated With Phone Num +923345022570","timestamp":"01:03:17"}
+{"level":"info","message":"data received after updating profile picture","timestamp":"01:03:17"}
+{"level":"info","message":"deactivateAccount-POST called ","timestamp":"01:15:42"}
+{"level":"info","message":"RegistrationController.deactivateAccount called  :+923345022571","timestamp":"01:15:42"}
+{"level":"info","message":"UserExists Method Called","timestamp":"01:15:42"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"01:15:42"}
+{"level":"info","message":" Exit RegistrationController.deactivateAccount Method","timestamp":"01:15:42"}
+{"level":"info","message":"User Found with Phone Num. :+923345022571","timestamp":"01:15:42"}
+{"level":"info","message":"User Exists Response : { _id: 59af98f4c94f5829482989d8,\n  updatedAt: 2017-09-06T06:43:49.478Z,\n  createdAt: 2017-09-06T06:43:00.936Z,\n  phone: '+923345022571',\n  country_code: '+92',\n  verified_user: true,\n  __v: 0,\n  OS: 'android',\n  active: false,\n  full_name: 'Nadeem',\n  share_location: true }","timestamp":"01:15:42"}
+{"level":"info","message":"User Deactivated With Phone Num +923345022571","timestamp":"01:15:43"}

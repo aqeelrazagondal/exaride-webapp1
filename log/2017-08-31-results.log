@@ -1,0 +1,268 @@
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"15:15:46"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"15:15:46"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"15:15:47"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"15:15:57"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"15:15:57"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"15:15:57"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"15:15:57"}
+{"level":"info","message":"An Error Has Occurednull","timestamp":"15:15:57"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"15:36:39"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"15:36:39"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"15:36:39"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"15:37:00"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"15:37:00"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"15:37:00"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"15:37:00"}
+{"level":"error","message":"An Error Has Occurednull","timestamp":"15:37:01"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"15:41:26"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"15:41:26"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"15:41:26"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"15:41:32"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"15:41:32"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"15:41:32"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"15:41:32"}
+{"level":"error","message":"An Error Has Occurednull","timestamp":"15:41:32"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"15:51:27"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"15:51:27"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"15:51:27"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"15:51:33"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 3333-1111","timestamp":"15:51:33"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"15:51:33"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"15:51:33"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"15:51:34"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"16:00:09"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:00:09"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"16:00:09"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:00:17"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 4444-1111","timestamp":"16:00:17"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:00:17"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:00:17"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:00:18"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"16:01:36"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:01:36"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"16:01:36"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:01:41"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 4444-1111","timestamp":"16:01:41"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:01:41"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:01:41"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:01:42"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"16:05:17"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:05:17"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"16:05:18"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:05:26"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 4444-1111","timestamp":"16:05:26"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:05:26"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:05:26"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:05:26"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:3333","timestamp":"16:08:35"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:08:35"}
+{"level":"info","message":"User Found For Phone No: 3333","timestamp":"16:08:35"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:08:41"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 5555-3333","timestamp":"16:08:41"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:08:41"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:08:41"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:08:42"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:3333","timestamp":"16:10:24"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:10:24"}
+{"level":"info","message":"User Found For Phone No: 3333","timestamp":"16:10:25"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:10:32"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 6666-3333","timestamp":"16:10:32"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:10:32"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:10:32"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:10:33"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"16:11:47"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:11:47"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"16:11:47"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:12:00"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 6666-3333","timestamp":"16:12:00"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:12:00"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:12:00"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:12:00"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"16:37:06"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:37:06"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"16:37:06"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:37:12"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : -1111","timestamp":"16:37:12"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:37:12"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:37:12"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:37:12"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"16:37:25"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:37:25"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"16:37:25"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:37:40"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 9999-1111","timestamp":"16:37:40"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:37:40"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:37:40"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:37:40"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"16:38:06"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:38:06"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"16:38:06"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:38:14"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 9999-1111","timestamp":"16:38:14"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:38:14"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:38:14"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:38:14"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"16:47:33"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:47:33"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"16:47:33"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:47:48"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 8888-1111","timestamp":"16:47:48"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:47:48"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:47:48"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:47:48"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:8888","timestamp":"16:48:50"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:48:50"}
+{"level":"info","message":"User Found For Phone No: 8888","timestamp":"16:48:50"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:48:59"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 1111-8888","timestamp":"16:48:59"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:48:59"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:48:59"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:48:59"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"16:51:39"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:51:39"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"16:51:39"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:51:47"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 8888-1111","timestamp":"16:51:47"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:51:47"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:51:47"}
+{"level":"error","message":"An Error Has Occured : null","timestamp":"16:51:48"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"16:56:01"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:56:01"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"16:56:01"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:56:07"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"16:56:07"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:56:07"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:56:07"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:2222","timestamp":"16:56:17"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"16:56:17"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"16:56:18"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"16:56:27"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 1111-2222","timestamp":"16:56:27"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"16:56:27"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"16:56:27"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"17:07:36"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"17:07:36"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"17:07:37"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"17:07:42"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"17:07:42"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"17:07:42"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"17:07:42"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"17:08:59"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"17:08:59"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"17:08:59"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"17:09:04"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"17:09:04"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"17:09:04"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"17:09:04"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"17:49:56"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"17:49:56"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"17:49:57"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"17:50:02"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"17:50:02"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"17:50:02"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"17:50:02"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"18:36:51"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:36:51"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"18:36:51"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:36:58"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"18:36:58"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:36:58"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:36:58"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:2222","timestamp":"18:37:20"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:37:20"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"18:37:21"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:37:27"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 1111-2222","timestamp":"18:37:27"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:37:27"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:37:27"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"18:42:50"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:42:50"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"18:42:50"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:42:56"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"18:42:56"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:42:56"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:42:56"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"18:45:35"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:45:35"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"18:45:35"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:45:45"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"18:45:45"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:45:45"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:45:45"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"18:46:13"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:46:13"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"18:46:15"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:46:21"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"18:46:21"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:46:21"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:46:21"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"18:48:17"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:48:17"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"18:48:18"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:48:23"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"18:48:23"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:48:23"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:48:23"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"18:49:58"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:49:58"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"18:49:59"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:50:04"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"18:50:04"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:50:04"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:50:04"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"18:51:24"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:51:24"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"18:51:25"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:51:34"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"18:51:34"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:51:34"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:51:34"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"18:52:09"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:52:09"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"18:52:11"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:52:17"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"18:52:17"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:52:17"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:52:17"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"18:54:52"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:54:52"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"18:54:53"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:54:59"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"18:54:59"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:54:59"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:54:59"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"18:55:42"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:55:42"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"18:55:45"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:55:51"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"18:55:51"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:55:51"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:55:51"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"18:59:38"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"18:59:38"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"18:59:39"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"18:59:46"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"18:59:46"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"18:59:46"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"18:59:46"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"19:16:09"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"19:16:09"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"19:16:09"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"19:16:16"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"19:16:16"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"19:16:16"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"19:16:16"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"19:22:13"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"19:22:13"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"19:22:13"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"19:22:19"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"19:22:19"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"19:22:19"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"19:22:19"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"19:26:18"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"19:26:18"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"19:26:18"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"19:26:25"}
+{"level":"info","message":"ChatController.chkPreviousConversation called  : 2222-1111","timestamp":"19:26:25"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"19:26:25"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"19:26:25"}

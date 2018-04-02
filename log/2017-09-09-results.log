@@ -1,0 +1,265 @@
+{"level":"info","message":"In ChatController.createGroup \n Group Data : third  Group+9233450225725555,222,333","timestamp":"11:08:35"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"11:08:35"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b38563133d900364ac9f37","timestamp":"11:08:36"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : third  Group+9233450225725555,222,333","timestamp":"11:09:20"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"11:09:20"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b38590a1b9402c703fcb9d","timestamp":"11:09:20"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : third  Group+9233450225725555,222,333","timestamp":"11:10:24"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"11:10:24"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b385d05a3cb532307f380d","timestamp":"11:10:24"}
+{"level":"info","message":"Creating Conversation User for Phone No5555","timestamp":"11:10:24"}
+{"level":"info","message":"Creating Conversation User for Phone No222","timestamp":"11:10:24"}
+{"level":"info","message":"Creating Conversation User for Phone No333","timestamp":"11:10:24"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : third  Group+9233450225725555,222,333","timestamp":"11:11:34"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"11:11:34"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3861612ee802e2419a5d1","timestamp":"11:11:36"}
+{"level":"info","message":"Creating Conversation User for Phone No5555","timestamp":"11:11:36"}
+{"level":"info","message":"Creating Conversation User for Phone No222","timestamp":"11:11:36"}
+{"level":"info","message":"Creating Conversation User for Phone No333","timestamp":"11:11:36"}
+{"level":"info","message":"Conversation User Created for Phone No5555","timestamp":"11:11:36"}
+{"level":"info","message":"Conversation User Created for Phone No222","timestamp":"11:11:36"}
+{"level":"info","message":"Conversation User Created for Phone No333","timestamp":"11:11:36"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : Friends  Group+923345022570+92335022570,+92335022571,+92335022572","timestamp":"11:29:56"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"11:29:56"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b38a6412ee802e2419a5d5","timestamp":"11:29:56"}
+{"level":"info","message":"Creating Conversation User for Phone No+92335022570","timestamp":"11:29:56"}
+{"level":"info","message":"Creating Conversation User for Phone No+92335022571","timestamp":"11:29:56"}
+{"level":"info","message":"Creating Conversation User for Phone No+92335022572","timestamp":"11:29:56"}
+{"level":"info","message":"Conversation User Created for Phone No+92335022571","timestamp":"11:29:56"}
+{"level":"info","message":"Conversation User Created for Phone No+92335022570","timestamp":"11:29:56"}
+{"level":"info","message":"Conversation User Created for Phone No+92335022572","timestamp":"11:29:56"}
+{"level":"info","message":"In routes get single user, where phone NO. : +923345022571","timestamp":"11:47:17"}
+{"level":"info","message":"user found with phone no +923345022571","timestamp":"11:47:17"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59af98f4c94f5829482989d8,\n  updatedAt: 2017-09-06T06:43:49.478Z,\n  createdAt: 2017-09-06T06:43:00.936Z,\n  phone: '+923345022571',\n  country_code: '+92',\n  verified_user: true,\n  __v: 0,\n  OS: 'android',\n  active: false,\n  full_name: 'Nadeem' }","timestamp":"11:47:17"}
+{"level":"info","message":"In routes get single user, where phone NO. : +923345022570","timestamp":"11:48:46"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"11:48:46"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59af97049d57ac10ece4b6b1,\n  updatedAt: 2017-09-07T14:00:01.224Z,\n  createdAt: 2017-09-06T06:34:44.109Z,\n  phone: '+923345022570',\n  country_code: '+92',\n  verified_user: true,\n  __v: 0,\n  OS: 'Android',\n  active: false,\n  full_name: 'saii',\n  profile_photo_url: 'https://cdn3.iconfinder.com/data/icons/rcons-user-action/32/boy-512.png' }","timestamp":"11:48:46"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : Friends  Group 2+923345022570+92335022570,+92335022571,+92335022572","timestamp":"12:11:09"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"12:11:09"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3940d4f419d20d0215a85","timestamp":"12:11:09"}
+{"level":"info","message":"Creating Conversation User for Phone No+92335022570","timestamp":"12:11:09"}
+{"level":"info","message":"Creating Conversation User for Phone No+92335022571","timestamp":"12:11:09"}
+{"level":"info","message":"Creating Conversation User for Phone No+92335022572","timestamp":"12:11:09"}
+{"level":"info","message":"Conversation User Created for Phone No+92335022570","timestamp":"12:11:10"}
+{"level":"info","message":"Conversation User Created for Phone No+92335022571","timestamp":"12:11:11"}
+{"level":"info","message":"Conversation User Created for Phone No+92335022572","timestamp":"12:11:11"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:1111","timestamp":"15:30:20"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"15:30:20"}
+{"level":"info","message":"User not Found For Phone No: 1111","timestamp":"15:30:20"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:+923345022570","timestamp":"15:30:30"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"15:30:30"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"15:30:30"}
+{"level":"info","message":"createRoom Event  Called for userMobileNumberFrom : +923345022570 & userMobileNumberTo +923345022571","timestamp":"15:30:51"}
+{"level":"info","message":"ChatController.chkPreviousConversation called - toMobileNo : +923345022571- fromMobileNo :+923345022570","timestamp":"15:30:51"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"15:30:51"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"15:30:51"}
+{"level":"info","message":"chkPreviousIndividualConversation response :undefined","timestamp":"15:30:51"}
+{"level":"info","message":"conversation created for id :59b3c2dbe6f45b326822ce67","timestamp":"15:30:52"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3c2dbe6f45b326822ce67","timestamp":"15:30:52"}
+{"level":"info","message":"Sending room Id To client : 59b3c2dbe6f45b326822ce67","timestamp":"15:30:52"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:+923345022571","timestamp":"15:31:14"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"15:31:14"}
+{"level":"info","message":"User Found For Phone No: +923345022571","timestamp":"15:31:14"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:+923345022570","timestamp":"15:31:48"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"15:31:48"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"15:31:49"}
+{"level":"info","message":"createRoom Event  Called for userMobileNumberFrom : +923345022570 & userMobileNumberTo +923345022571","timestamp":"15:31:59"}
+{"level":"info","message":"ChatController.chkPreviousConversation called - toMobileNo : +923345022571- fromMobileNo :+923345022570","timestamp":"15:31:59"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"15:31:59"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"15:31:59"}
+{"level":"info","message":"chkPreviousIndividualConversation response :undefined","timestamp":"15:31:59"}
+{"level":"info","message":"conversation created for id :59b3c31fe6f45b326822ce6a","timestamp":"15:31:59"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3c31fe6f45b326822ce6a","timestamp":"15:31:59"}
+{"level":"info","message":"Sending room Id To client : 59b3c31fe6f45b326822ce6a","timestamp":"15:31:59"}
+{"level":"info","message":"Data Object : [object Object]","timestamp":"15:32:07"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:+923345022570","timestamp":"15:39:01"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"15:39:01"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"15:39:02"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:+923345022571","timestamp":"15:39:11"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"15:39:11"}
+{"level":"info","message":"User Found For Phone No: +923345022571","timestamp":"15:39:12"}
+{"level":"info","message":"createRoom Event  Called for userMobileNumberFrom : +923345022570 & userMobileNumberTo +923345022571","timestamp":"15:40:00"}
+{"level":"info","message":"ChatController.chkPreviousConversation called - toMobileNo : +923345022571- fromMobileNo :+923345022570","timestamp":"15:40:00"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"15:40:00"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"15:40:00"}
+{"level":"info","message":"59b3c31fe6f45b326822ce6a - indivdual Conversation found","timestamp":"15:40:01"}
+{"level":"info","message":"chkPreviousIndividualConversation response :59b3c31fe6f45b326822ce6a","timestamp":"15:40:01"}
+{"level":"info","message":"Previous Conversation Id Received :59b3c31fe6f45b326822ce6a","timestamp":"15:40:01"}
+{"level":"info","message":"Sending room Id To client : 59b3c31fe6f45b326822ce6a","timestamp":"15:40:01"}
+{"level":"info","message":"createRoom Event  Called for userMobileNumberFrom : +923345022571 & userMobileNumberTo +923345022570","timestamp":"15:40:11"}
+{"level":"info","message":"ChatController.chkPreviousConversation called - toMobileNo : +923345022570- fromMobileNo :+923345022571","timestamp":"15:40:11"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"15:40:11"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"15:40:11"}
+{"level":"info","message":"59b3c31fe6f45b326822ce6a - indivdual Conversation found","timestamp":"15:40:13"}
+{"level":"info","message":"chkPreviousIndividualConversation response :59b3c31fe6f45b326822ce6a","timestamp":"15:40:13"}
+{"level":"info","message":"Previous Conversation Id Received :59b3c31fe6f45b326822ce6a","timestamp":"15:40:13"}
+{"level":"info","message":"Sending room Id To client : 59b3c31fe6f45b326822ce6a","timestamp":"15:40:13"}
+{"level":"info","message":"Data Object : [object Object]","timestamp":"15:40:17"}
+{"level":"info","message":"Data Object : [object Object]","timestamp":"15:43:24"}
+{"level":"info","message":"listening sendMessage event on server : \n aasasa**text**59b3c31fe6f45b326822ce6a**undefined**undefined","timestamp":"15:43:24"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:+923345022570","timestamp":"15:43:37"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"15:43:37"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"15:43:38"}
+{"level":"info","message":"createRoom Event  Called for userMobileNumberFrom : +923345022570 & userMobileNumberTo +923345022571","timestamp":"15:43:50"}
+{"level":"info","message":"ChatController.chkPreviousConversation called - toMobileNo : +923345022571- fromMobileNo :+923345022570","timestamp":"15:43:50"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"15:43:50"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"15:43:50"}
+{"level":"info","message":"59b3c31fe6f45b326822ce6a - indivdual Conversation found","timestamp":"15:43:51"}
+{"level":"info","message":"chkPreviousIndividualConversation response :59b3c31fe6f45b326822ce6a","timestamp":"15:43:51"}
+{"level":"info","message":"Previous Conversation Id Received :59b3c31fe6f45b326822ce6a","timestamp":"15:43:51"}
+{"level":"info","message":"Sending room Id To client : 59b3c31fe6f45b326822ce6a","timestamp":"15:43:51"}
+{"level":"info","message":"Data Object : [object Object]","timestamp":"15:43:57"}
+{"level":"info","message":"listening sendMessage event on server : \n asasa**text**59b3c31fe6f45b326822ce6a**undefined**undefined","timestamp":"15:43:57"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"16:02:17"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : undefinedundefinedundefined","timestamp":"16:02:17"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"16:02:17"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3ca39d3a3842df8893de0","timestamp":"16:02:18"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"16:02:54"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : undefinedundefinedundefined","timestamp":"16:02:54"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"16:02:54"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3ca5e4872bd0cf059b84d","timestamp":"16:03:01"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"16:03:47"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : undefinedundefinedundefined","timestamp":"16:03:47"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"16:03:47"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3ca934938651350a728ba","timestamp":"16:03:48"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"16:08:12"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : undefinedundefinedundefined","timestamp":"16:08:12"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"16:08:12"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3cb9c6adf16153c11f85c","timestamp":"16:08:19"}
+{"level":"info","message":"reqData :[object Object]","timestamp":"16:10:44"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"16:10:44"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : undefinedundefinedundefined","timestamp":"16:10:44"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"16:10:44"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3cc3405a283310caf8fa8","timestamp":"16:10:48"}
+{"level":"info","message":"reqData  :undefined","timestamp":"16:17:47"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"16:17:47"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : undefinedundefinedundefined","timestamp":"16:17:47"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"16:17:47"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3cddb7c8ad4055422c389","timestamp":"16:17:47"}
+{"level":"info","message":"File Is uploaded","timestamp":"16:26:23"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :923345022570","timestamp":"16:26:23"}
+{"level":"info","message":"UserExists Method Called","timestamp":"16:26:23"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"16:26:23"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"16:26:23"}
+{"level":"info","message":"User Not Found with Phone Num. :923345022570","timestamp":"16:26:38"}
+{"level":"info","message":"UNo User Found to Update With Phone Num 923345022570","timestamp":"16:26:38"}
+{"level":"info","message":"File Is uploaded","timestamp":"16:51:10"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"16:51:10"}
+{"level":"info","message":"UserExists Method Called","timestamp":"16:51:10"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"16:51:10"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"16:51:10"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"16:51:11"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"16:51:11"}
+{"level":"info","message":"reqData  :undefined","timestamp":"16:52:06"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"16:52:06"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : undefinedundefinedundefined","timestamp":"16:52:06"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"16:52:06"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3d5e60239b32028156fd2","timestamp":"16:52:06"}
+{"level":"info","message":"File Is uploaded","timestamp":"16:54:02"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"16:54:02"}
+{"level":"info","message":"UserExists Method Called","timestamp":"16:54:02"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"16:54:02"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"16:54:02"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"16:54:02"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"16:54:02"}
+{"level":"info","message":"reqData  :undefined","timestamp":"16:57:33"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"16:57:33"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : Group1+923345022570+92335022570","timestamp":"16:57:33"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"16:57:33"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3d72dd624922a381a4c1f","timestamp":"16:57:33"}
+{"level":"info","message":"reqData  :undefined","timestamp":"16:58:22"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"16:58:22"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : Group1+923345022570+92335022570,1111","timestamp":"16:58:22"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"16:58:22"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b3d75e98bffc2db43a76bd","timestamp":"16:58:25"}
+{"level":"info","message":"Creating Conversation User for Phone No+92335022570","timestamp":"16:58:25"}
+{"level":"info","message":"Creating Conversation User for Phone No1111","timestamp":"16:58:25"}
+{"level":"info","message":"Conversation User Created for Phone No+92335022570","timestamp":"16:58:25"}
+{"level":"info","message":"Conversation User Created for Phone No1111","timestamp":"16:58:25"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"18:37:35"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :923345022574","timestamp":"18:37:35"}
+{"level":"info","message":"UserExists Method Called","timestamp":"18:37:35"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"18:37:35"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"18:37:35"}
+{"level":"info","message":"User Not Found with Phone Num. :923345022574","timestamp":"18:37:36"}
+{"level":"info","message":"User Created With Phone Num 923345022574","timestamp":"18:37:36"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923345022574 - 1234","timestamp":"18:37:47"}
+{"level":"info","message":"UserExists Method Called","timestamp":"18:37:47"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"18:37:47"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"18:37:47"}
+{"level":"info","message":"User Not Found with Phone Num. :+923345022574","timestamp":"18:37:47"}
+{"level":"info","message":"User Not Found with Phone Num. :+923345022574","timestamp":"18:37:47"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"18:38:04"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022574","timestamp":"18:38:04"}
+{"level":"info","message":"UserExists Method Called","timestamp":"18:38:04"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"18:38:04"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"18:38:04"}
+{"level":"info","message":"User Not Found with Phone Num. :+923345022574","timestamp":"18:38:05"}
+{"level":"info","message":"User Created With Phone Num +923345022574","timestamp":"18:38:05"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923345022574 - 1234","timestamp":"18:38:10"}
+{"level":"info","message":"UserExists Method Called","timestamp":"18:38:10"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"18:38:10"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"18:38:10"}
+{"level":"info","message":"User Found with Phone Num. :+923345022574","timestamp":"18:38:11"}
+{"level":"info","message":"reqData  :undefined","timestamp":"19:55:15"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"19:55:15"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : Group222+923345022570111,222","timestamp":"19:55:15"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"19:55:15"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b400d324fb9428ecbbe420","timestamp":"19:55:15"}
+{"level":"info","message":"Creating Conversation User for Phone No111","timestamp":"19:55:15"}
+{"level":"info","message":"Creating Conversation User for Phone No222","timestamp":"19:55:15"}
+{"level":"info","message":"Conversation User Created for Phone No222","timestamp":"19:55:16"}
+{"level":"info","message":"Conversation User Created for Phone No111","timestamp":"19:55:16"}
+{"level":"info","message":"reqData  :undefined","timestamp":"19:55:52"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"19:55:52"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : Group222+923345022570111,222","timestamp":"19:55:52"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"19:55:52"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b400f824fb9428ecbbe423","timestamp":"19:55:52"}
+{"level":"info","message":"Creating Conversation User for Phone No111","timestamp":"19:55:52"}
+{"level":"info","message":"Creating Conversation User for Phone No222","timestamp":"19:55:52"}
+{"level":"info","message":"Conversation User Created for Phone No111","timestamp":"19:55:53"}
+{"level":"info","message":"Conversation User Created for Phone No222","timestamp":"19:55:53"}
+{"level":"info","message":"reqData  :undefined","timestamp":"22:23:20"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"22:23:20"}
+{"level":"info","message":"In ChatController.createGroup \n Group Data : Group222+923345022570111,222","timestamp":"22:23:20"}
+{"level":"info","message":" Exit ChatController.createGroup Method","timestamp":"22:23:20"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b42388337c3732908ddcf1","timestamp":"22:23:20"}
+{"level":"info","message":"Creating Conversation User for Phone No111","timestamp":"22:23:20"}
+{"level":"info","message":"Creating Conversation User for Phone No222","timestamp":"22:23:20"}
+{"level":"info","message":"Conversation User Created for Phone No111","timestamp":"22:23:21"}
+{"level":"info","message":"Conversation User Created for Phone No222","timestamp":"22:23:22"}
+{"level":"info","message":"in routes get users","timestamp":"23:19:54"}
+{"level":"info","message":"Response Of findAllUser Method","timestamp":"23:19:54"}
+{"level":"info","message":"in routes get users","timestamp":"23:20:54"}
+{"level":"info","message":"Response Of findAllUser Method","timestamp":"23:20:56"}
+{"level":"info","message":"in routes get users","timestamp":"23:21:15"}
+{"level":"info","message":"Response Of findAllUser Method","timestamp":"23:21:17"}
+{"level":"info","message":"in routes get users","timestamp":"23:21:34"}
+{"level":"info","message":"Response Of findAllUser Method","timestamp":"23:21:34"}
+{"level":"info","message":"in routes get users","timestamp":"23:21:39"}
+{"level":"info","message":"Response Of findAllUser Method","timestamp":"23:21:39"}
+{"level":"info","message":"in routes get groups","timestamp":"23:26:03"}
+{"level":"info","message":"Response Of findAllGroups Method","timestamp":"23:26:03"}
+{"level":"info","message":"in routes get groups","timestamp":"23:30:43"}
+{"level":"info","message":"Response Of findAllGroups Method","timestamp":"23:30:43"}
+{"level":"info","message":"in routes get groups","timestamp":"23:32:37"}
+{"level":"info","message":"20 groups Found","timestamp":"23:32:39"}
+{"level":"info","message":"Response Of findAllGroups Method","timestamp":"23:32:39"}
+{"level":"info","message":"verifyUser Event  Called for Phone Num:+923345022570","timestamp":"23:33:04"}
+{"level":"info","message":" Exit verifyUser Event","timestamp":"23:33:04"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"23:33:05"}
+{"level":"info","message":"createRoom Event  Called for userMobileNumberFrom : 11111 & userMobileNumberTo 222222","timestamp":"23:33:13"}
+{"level":"info","message":"ChatController.chkPreviousConversation called - toMobileNo : 222222- fromMobileNo :11111","timestamp":"23:33:13"}
+{"level":"info","message":" Exit ChatController.chkPreviousConversation Method","timestamp":"23:33:14"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"23:33:14"}
+{"level":"info","message":"chkPreviousIndividualConversation response :undefined","timestamp":"23:33:14"}
+{"level":"info","message":"conversation created for id :59b433ea35c08f15207b0bec","timestamp":"23:33:14"}
+{"level":"info","message":"Creating Conversation Users against conversation id : 59b433ea35c08f15207b0bec","timestamp":"23:33:14"}
+{"level":"info","message":"Sending room Id To client : 59b433ea35c08f15207b0bec","timestamp":"23:33:14"}
+{"level":"info","message":"in routes get groups","timestamp":"23:33:54"}
+{"level":"info","message":"20 groups Found","timestamp":"23:33:57"}
+{"level":"info","message":"Response Of findAllGroups Method","timestamp":"23:33:57"}
+{"level":"info","message":"in routes get groups","timestamp":"02:39:34"}
+{"level":"info","message":"In ChatController.findAllGroups ","timestamp":"02:39:34"}
+{"level":"info","message":"1 groups Found","timestamp":"02:39:35"}
+{"level":"info","message":"Response Of findAllGroups Method","timestamp":"02:39:35"}

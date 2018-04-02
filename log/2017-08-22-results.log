@@ -1,0 +1,249 @@
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:42:38 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+444","timestamp":"12:42:38 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:42:38 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:42:38 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:42:38 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+444","timestamp":"12:42:38 PM"}
+{"level":"info","message":"User Created With Phone Num +444","timestamp":"12:42:38 PM"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+444 - 1234","timestamp":"12:43:08 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:43:08 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:43:08 PM"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"12:43:08 PM"}
+{"level":"info","message":"User Found with Phone Num. :+444","timestamp":"12:43:08 PM"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+444","timestamp":"12:43:54 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:43:54 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:43:54 PM"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"12:43:54 PM"}
+{"level":"info","message":"User Found with Phone Num. :+444","timestamp":"12:43:55 PM"}
+{"level":"info","message":"User updated With Phone Num +444","timestamp":"12:43:55 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:46:48 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+333","timestamp":"12:47:44 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:47:44 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:47:44 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:47:44 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+333","timestamp":"12:47:44 PM"}
+{"level":"info","message":"User Created With Phone Num +333","timestamp":"12:47:44 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:47:56 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+333","timestamp":"12:47:56 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:47:56 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:47:56 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:47:56 PM"}
+{"level":"info","message":"User Found with Phone Num. :+333","timestamp":"12:47:56 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:48:06 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+666","timestamp":"12:48:06 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:48:06 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:48:06 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:48:06 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+666","timestamp":"12:48:06 PM"}
+{"level":"info","message":"User Created With Phone Num +666","timestamp":"12:48:07 PM"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+666 - 1234","timestamp":"12:48:17 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:48:17 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:48:17 PM"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"12:48:17 PM"}
+{"level":"info","message":"User Found with Phone Num. :+666","timestamp":"12:48:17 PM"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+666 - 1234","timestamp":"12:48:19 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:48:19 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:48:19 PM"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"12:48:19 PM"}
+{"level":"info","message":"User Found with Phone Num. :+666","timestamp":"12:48:19 PM"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+666 - 1234","timestamp":"12:48:25 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:48:25 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:48:25 PM"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"12:48:25 PM"}
+{"level":"info","message":"User Found with Phone Num. :+666","timestamp":"12:48:26 PM"}
+{"level":"info","message":"RegistrationController.syncContacts called  :","timestamp":"12:48:37 PM"}
+{"level":"info","message":" Exit RegistrationController.syncContacts Method","timestamp":"12:48:37 PM"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+666","timestamp":"12:49:00 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:49:00 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:49:00 PM"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"12:49:00 PM"}
+{"level":"info","message":"User Found with Phone Num. :+666","timestamp":"12:49:00 PM"}
+{"level":"info","message":"User updated With Phone Num +666","timestamp":"12:49:01 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"4:15:31 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+777","timestamp":"4:15:31 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"4:15:31 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"4:15:31 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"4:15:31 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+777","timestamp":"4:15:32 PM"}
+{"level":"error","message":"Some Error while saving userValidationError: _id: Cast to ObjectID failed for value \"+777\" at path \"_id\"","timestamp":"4:15:32 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"4:27:21 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+777","timestamp":"4:27:21 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"4:27:21 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"4:27:21 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"4:27:21 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+777","timestamp":"4:27:21 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"4:28:13 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+777","timestamp":"4:28:13 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"4:28:13 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"4:28:13 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"4:28:13 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+777","timestamp":"4:28:15 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"4:30:15 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :507f1f77bcf86cd799439011","timestamp":"4:30:15 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"4:30:15 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"4:30:15 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"4:30:15 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :507f1f77bcf86cd799439011","timestamp":"4:30:16 PM"}
+{"level":"error","message":"Some Error while saving userWriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error index: adaalah-dev.users.$_id_ dup key: { : ObjectId('507f1f77bcf86cd799439011') }\",\"op\":{\"phone\":\"507f1f77bcf86cd799439011\",\"country_code\":\"+66\",\"verified_user\":false,\"created_at\":\"2017-08-22T11:30:16.187Z\",\"_id\":\"507f1f77bcf86cd799439011\",\"__v\":0}})","timestamp":"4:30:16 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"4:33:07 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :507f1f77bcf86cd799439011","timestamp":"4:33:07 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"4:33:07 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"4:33:07 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"4:33:07 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :507f1f77bcf86cd799439011","timestamp":"4:33:08 PM"}
+{"level":"error","message":"Some Error while saving userWriteError({\"code\":11000,\"index\":0,\"errmsg\":\"E11000 duplicate key error index: adaalah-dev.users.$_id_ dup key: { : ObjectId('507f1f77bcf86cd799439011') }\",\"op\":{\"phone\":\"507f1f77bcf86cd799439011\",\"country_code\":\"+66\",\"verified_user\":false,\"created_at\":\"2017-08-22T11:33:08.026Z\",\"_id\":\"507f1f77bcf86cd799439011\",\"__v\":0}})","timestamp":"4:33:08 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"4:35:31 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :507f1f77bcf86cd799439011","timestamp":"4:35:31 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"4:35:31 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"4:35:31 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"4:35:31 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :507f1f77bcf86cd799439011","timestamp":"4:35:31 PM"}
+{"level":"info","message":"User Created With Phone Num 507f1f77bcf86cd799439011","timestamp":"4:35:32 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"5:52:26 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"5:52:26 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"5:52:26 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"5:52:45 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"5:52:45 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"5:52:45 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"5:52:57 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"5:52:57 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:03:18 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:03:18 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:03:18 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:03:28 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:03:28 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:03:28 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:03:37 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:03:37 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:06:54 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:06:54 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:06:54 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:07:09 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:07:09 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:07:10 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:07:23 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:07:23 PM"}
+{"level":"error","message":"Eror Saving Conversation message","timestamp":"6:07:30 PM"}
+{"level":"info","message":"Issue Saving Conversation message, message is  Null ","timestamp":"6:07:30 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:10:05 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:10:05 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:10:05 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:10:12 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:10:12 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:10:13 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:10:21 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:10:21 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:10:51 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:10:51 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:10:51 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:10:55 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:10:55 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:10:55 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:11:04 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:11:04 PM"}
+{"level":"error","message":"Eror Saving Conversation message","timestamp":"6:11:11 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:12:31 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:12:31 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:12:31 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:12:37 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:12:37 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:12:37 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:12:43 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:12:43 PM"}
+{"level":"error","message":"Eror Saving Conversation message","timestamp":"6:12:51 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:13:32 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:13:32 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:13:32 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:13:37 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:13:37 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:13:38 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:13:45 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:13:45 PM"}
+{"level":"error","message":"Eror Saving Conversation message","timestamp":"6:13:54 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:15:37 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:15:37 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:15:37 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:15:43 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:15:43 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:15:44 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:15:49 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:15:49 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:17:10 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:17:10 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:17:10 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:17:14 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:17:14 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:17:14 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:17:20 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:17:20 PM"}
+{"level":"error","message":"Eror Saving Conversation message","timestamp":"6:17:26 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:18:16 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:18:16 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:18:17 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:18:30 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:18:30 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:18:31 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:18:34 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:18:34 PM"}
+{"level":"error","message":"Eror Saving Conversation messageValidationError: _conversationId: Cast to ObjectID failed for value \"11112222\" at path \"_conversationId\", _messageToUserId: Cast to ObjectID failed for value \"1212\" at path \"_messageToUserId\", _messageFromUserId: Cast to ObjectID failed for value \"4545\" at path \"_messageFromUserId\"","timestamp":"6:18:40 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:22:32 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:22:32 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:22:33 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:22:37 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:22:37 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:22:38 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:22:44 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:22:44 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:23:09 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:23:09 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:3333","timestamp":"6:23:58 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:23:58 PM"}
+{"level":"info","message":"User Found For Phone No: 3333","timestamp":"6:23:58 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:24:12 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:24:12 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:24:32 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:24:32 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:24:33 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:24:42 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:24:42 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:28:57 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:28:57 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:28:58 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:29:02 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:29:02 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:29:02 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:3333","timestamp":"6:29:14 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:29:14 PM"}
+{"level":"info","message":"User Found For Phone No: 3333","timestamp":"6:29:14 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:29:23 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:29:23 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:29:31 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:29:31 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:29:43 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:29:43 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:1111","timestamp":"6:34:36 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:34:36 PM"}
+{"level":"info","message":"User Found For Phone No: 1111","timestamp":"6:34:36 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:2222","timestamp":"6:34:41 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:34:41 PM"}
+{"level":"info","message":"User Found For Phone No: 2222","timestamp":"6:34:41 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:3333","timestamp":"6:34:46 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:34:46 PM"}
+{"level":"info","message":"User Found For Phone No: 3333","timestamp":"6:34:47 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:35:19 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:35:19 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:35:28 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:35:28 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:4444","timestamp":"6:35:48 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"6:35:48 PM"}
+{"level":"info","message":"User Found For Phone No: 4444","timestamp":"6:35:48 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:35:55 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:35:55 PM"}
+{"level":"info","message":"createRoom Event  Called","timestamp":"6:36:06 PM"}
+{"level":"info","message":" Exit createRoom Event","timestamp":"6:36:06 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:21212121","timestamp":"7:01:41 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"7:01:41 PM"}
+{"level":"info","message":"User not Found For Phone No: 21212121","timestamp":"7:01:41 PM"}
+{"level":"info","message":"newUser Event  Called for Phone Num:12121112","timestamp":"7:02:32 PM"}
+{"level":"info","message":" Exit newUser Event","timestamp":"7:02:32 PM"}
+{"level":"info","message":"User not Found For Phone No: 12121112","timestamp":"7:02:32 PM"}

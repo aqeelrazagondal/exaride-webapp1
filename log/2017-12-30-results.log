@@ -1,0 +1,150 @@
+{"level":"info","message":"LocationController.updateUserLocation called  :+923345022570**73.0922641**33.5216944","timestamp":"12:38:31"}
+{"level":"info","message":"Marker Length : 11","timestamp":"12:38:40"}
+{"level":"info","message":"marker.title : Zohaib's Home","timestamp":"12:38:40"}
+{"level":"info","message":"marker.loc : 73.011563,33.5930571","timestamp":"12:38:40"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:40"}
+{"level":"info","message":"distance: 10900","timestamp":"12:38:40"}
+{"level":"info","message":"marker.title : Lahori Chatkhaara","timestamp":"12:38:40"}
+{"level":"info","message":"marker.loc : 73.093629,33.522274","timestamp":"12:38:40"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:40"}
+{"level":"info","message":"distance: 142","timestamp":"12:38:40"}
+{"level":"info","message":"marker.title : HBL","timestamp":"12:38:40"}
+{"level":"info","message":"marker.loc : 73.088243,33.519555","timestamp":"12:38:40"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:40"}
+{"level":"info","message":"distance: 443","timestamp":"12:38:40"}
+{"level":"info","message":"marker.title : Gloria Jean's","timestamp":"12:38:40"}
+{"level":"info","message":"marker.loc : 73.086247,33.517694","timestamp":"12:38:40"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:40"}
+{"level":"info","message":"distance: 714","timestamp":"12:38:40"}
+{"level":"info","message":"marker.title : Rasheed Sweetd","timestamp":"12:38:40"}
+{"level":"info","message":"marker.loc : 73.089316,33.520145","timestamp":"12:38:40"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:40"}
+{"level":"info","message":"distance: 323","timestamp":"12:38:40"}
+{"level":"info","message":"marker.title : Zohaib's Home","timestamp":"12:38:40"}
+{"level":"info","message":"marker.loc : 73.011563,33.5930571","timestamp":"12:38:40"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:40"}
+{"level":"info","message":"distance: 10900","timestamp":"12:38:40"}
+{"level":"info","message":"marker.title : POONCH","timestamp":"12:38:40"}
+{"level":"info","message":"marker.loc : 74.08205509185791,33.75381741118757","timestamp":"12:38:40"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:40"}
+{"level":"info","message":"distance: 95368","timestamp":"12:38:40"}
+{"level":"info","message":"marker.title : New marker 2","timestamp":"12:38:40"}
+{"level":"info","message":"marker.loc : 73.13149094581604,33.56251390365142","timestamp":"12:38:40"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:40"}
+{"level":"info","message":"distance: 5811","timestamp":"12:38:40"}
+{"level":"info","message":"marker.title : Exagic","timestamp":"12:38:40"}
+{"level":"info","message":"marker.loc : 73.092338,33.521715","timestamp":"12:38:40"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:40"}
+{"level":"info","message":"distance: 7","timestamp":"12:38:40"}
+{"level":"info","message":"inside Radius, Send Push Notification","timestamp":"12:38:40"}
+{"level":"info","message":"marker.title : saif home","timestamp":"12:38:40"}
+{"level":"info","message":"marker.loc : 73.06954935193062,33.62254629377314","timestamp":"12:38:40"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:40"}
+{"level":"info","message":"distance: 11383","timestamp":"12:38:40"}
+{"level":"info","message":"marker.title : Saif Home Updated 3","timestamp":"12:38:40"}
+{"level":"info","message":"marker.loc : 72.089316,31.520145","timestamp":"12:38:40"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:40"}
+{"level":"info","message":"distance: 241134","timestamp":"12:38:40"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"12:38:40"}
+{"level":"info","message":"LocationController.updateUserLocation called  :+923345022570**73.0922641**33.5216944","timestamp":"12:38:59"}
+{"level":"info","message":"Marker Length : 11","timestamp":"12:38:59"}
+{"level":"info","message":"marker.title : Zohaib's Home","timestamp":"12:38:59"}
+{"level":"info","message":"marker.loc : 73.011563,33.5930571","timestamp":"12:38:59"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:59"}
+{"level":"info","message":"distance: 10900","timestamp":"12:38:59"}
+{"level":"info","message":"marker.title : Lahori Chatkhaara","timestamp":"12:38:59"}
+{"level":"info","message":"marker.loc : 73.093629,33.522274","timestamp":"12:38:59"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:59"}
+{"level":"info","message":"distance: 142","timestamp":"12:38:59"}
+{"level":"info","message":"marker.title : HBL","timestamp":"12:38:59"}
+{"level":"info","message":"marker.loc : 73.088243,33.519555","timestamp":"12:38:59"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:59"}
+{"level":"info","message":"distance: 443","timestamp":"12:38:59"}
+{"level":"info","message":"marker.title : Gloria Jean's","timestamp":"12:38:59"}
+{"level":"info","message":"marker.loc : 73.086247,33.517694","timestamp":"12:38:59"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:59"}
+{"level":"info","message":"distance: 714","timestamp":"12:38:59"}
+{"level":"info","message":"marker.title : Rasheed Sweetd","timestamp":"12:38:59"}
+{"level":"info","message":"marker.loc : 73.089316,33.520145","timestamp":"12:38:59"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:38:59"}
+{"level":"info","message":"distance: 323","timestamp":"12:39:00"}
+{"level":"info","message":"marker.title : Zohaib's Home","timestamp":"12:39:00"}
+{"level":"info","message":"marker.loc : 73.011563,33.5930571","timestamp":"12:39:00"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:39:00"}
+{"level":"info","message":"distance: 10900","timestamp":"12:39:00"}
+{"level":"info","message":"marker.title : POONCH","timestamp":"12:39:00"}
+{"level":"info","message":"marker.loc : 74.08205509185791,33.75381741118757","timestamp":"12:39:00"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:39:00"}
+{"level":"info","message":"distance: 95368","timestamp":"12:39:00"}
+{"level":"info","message":"marker.title : New marker 2","timestamp":"12:39:00"}
+{"level":"info","message":"marker.loc : 73.13149094581604,33.56251390365142","timestamp":"12:39:00"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:39:00"}
+{"level":"info","message":"distance: 5811","timestamp":"12:39:00"}
+{"level":"info","message":"marker.title : Exagic","timestamp":"12:39:00"}
+{"level":"info","message":"marker.loc : 73.092338,33.521715","timestamp":"12:39:00"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:39:00"}
+{"level":"info","message":"distance: 7","timestamp":"12:39:00"}
+{"level":"info","message":"inside Radius, Send Push Notification","timestamp":"12:39:00"}
+{"level":"info","message":"marker.title : saif home","timestamp":"12:39:00"}
+{"level":"info","message":"marker.loc : 73.06954935193062,33.62254629377314","timestamp":"12:39:00"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:39:00"}
+{"level":"info","message":"distance: 11383","timestamp":"12:39:00"}
+{"level":"info","message":"marker.title : Saif Home Updated 3","timestamp":"12:39:00"}
+{"level":"info","message":"marker.loc : 72.089316,31.520145","timestamp":"12:39:00"}
+{"level":"info","message":"userLoc    latitude :33.5216944 longitude : 73.0922641","timestamp":"12:39:00"}
+{"level":"info","message":"distance: 241134","timestamp":"12:39:00"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"12:39:00"}
+{"level":"info","message":"location : 73.0922641,33.5216944","timestamp":"12:39:00"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"12:39:00"}
+{"level":"info","message":"Sending Notification to player id 27c3ed26-a9f5-4f10-927d-ca8ee7877414","timestamp":"12:39:00"}
+{"level":"info","message":"marker Object : latitude = 33.521715** longitude =73.092338** radius =20","timestamp":"12:39:00"}
+{"level":"info","message":"User Location With Phone Num +923345022570","timestamp":"12:39:03"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923345022570**true","timestamp":"12:46:34"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"12:46:34"}
+{"level":"info","message":"+923345022570location flag : true","timestamp":"12:46:34"}
+{"level":"info","message":"User Location With Phone Num +923345022570","timestamp":"12:46:34"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923345022570**true","timestamp":"12:47:49"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"12:47:51"}
+{"level":"info","message":"+923345022570location flag : true","timestamp":"12:47:51"}
+{"level":"info","message":"User Location With Phone Num +923345022570time :Sat Dec 30 2017 12:47:51 GMT+0500 (Pakistan Standard Time)","timestamp":"12:47:51"}
+{"level":"info","message":"In routes get users","timestamp":"13:01:59"}
+{"level":"info","message":"79 Users Found","timestamp":"13:02:00"}
+{"level":"info","message":"Response Of findAllUser Method","timestamp":"13:02:00"}
+{"level":"info","message":"In routes get single user, where phone NO. : +923345022570","timestamp":"13:04:18"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"13:04:18"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59af97049d57ac10ece4b6b1,\n  updatedAt: 2017-12-30T07:43:05.895Z,\n  createdAt: 2017-09-06T06:34:44.109Z,\n  phone: '+923345022570',\n  country_code: '+92',\n  verified_user: true,\n  __v: 1745,\n  OS: 'Android',\n  active: false,\n  full_name: 'Saif',\n  loc: [ 73.0921399, 33.5215974 ],\n  palyer_id: '27c3ed26-a9f5-4f10-927d-ca8ee7877414',\n  verification_code: '1844',\n  last_shared_loc_time: 2017-12-30T07:39:00.086Z,\n  share_location_flag_time: 2017-12-30T07:46:34.336Z,\n  share_location: true,\n  deactivate_user: false,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1512820630445.png' }","timestamp":"13:04:19"}
+{"level":"info","message":"In routes get single user, where phone NO. : +923345022570","timestamp":"13:05:10"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"13:05:12"}
+{"level":"info","message":"Response Of userExists Method : { _id: 59af97049d57ac10ece4b6b1,\n  updatedAt: 2017-12-30T07:43:05.895Z,\n  createdAt: 2017-09-06T06:34:44.109Z,\n  phone: '+923345022570',\n  country_code: '+92',\n  verified_user: true,\n  __v: 1745,\n  OS: 'Android',\n  active: false,\n  full_name: 'Saif',\n  loc: [ 73.0921399, 33.5215974 ],\n  palyer_id: '27c3ed26-a9f5-4f10-927d-ca8ee7877414',\n  verification_code: '1844',\n  share_location_flag_time: 2017-12-30T07:46:34.336Z,\n  last_shared_loc_time: 2017-12-30T07:39:00.086Z,\n  share_loc_flag_time: 2017-12-30T08:05:12.946Z,\n  share_location: true,\n  deactivate_user: false,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1512820630445.png' }","timestamp":"13:05:12"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"14:24:54"}
+{"level":"info","message":"An Exception occured ChatController.addGroupMember SyntaxError: Unexpected token o in JSON at position 1","timestamp":"14:24:54"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"14:25:51"}
+{"level":"info","message":"An Exception occured ChatController.addGroupMember SyntaxError: Unexpected token o in JSON at position 1","timestamp":"14:25:51"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"14:38:28"}
+{"level":"info","message":"An Exception occured ChatController.addGroupMember SyntaxError: Unexpected token o in JSON at position 1","timestamp":"14:38:28"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"14:39:57"}
+{"level":"info","message":"An Exception occured ChatController.addGroupMember SyntaxError: Unexpected token o in JSON at position 1","timestamp":"14:39:57"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"14:43:57"}
+{"level":"info","message":"An Exception occured ChatController.addGroupMember SyntaxError: Unexpected token o in JSON at position 1","timestamp":"14:43:57"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"14:44:24"}
+{"level":"info","message":"An Exception occured ChatController.addGroupMember SyntaxError: Unexpected token o in JSON at position 1","timestamp":"14:44:24"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"15:09:36"}
+{"level":"info","message":"An Exception occured ChatController.addGroupMember SyntaxError: Unexpected token u in JSON at position 0","timestamp":"15:09:36"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"15:11:08"}
+{"level":"info","message":"An Exception occured ChatController.addGroupMember SyntaxError: Unexpected token u in JSON at position 0","timestamp":"15:11:08"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"15:11:08"}
+{"level":"info","message":"An Exception occured ChatController.addGroupMember SyntaxError: Unexpected token u in JSON at position 0","timestamp":"15:11:08"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"15:38:35"}
+{"level":"info","message":"An Exception occured ChatController.addGroupMember SyntaxError: Unexpected token u in JSON at position 0","timestamp":"15:38:35"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"15:39:41"}
+{"level":"info","message":"conversation with conversationId : undefined is not created or deleted","timestamp":"15:39:41"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"15:40:03"}
+{"level":"info","message":"conversation Found with Phone Num. :5a475db8bba5c10014e52cfe","timestamp":"15:40:04"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to 5212","timestamp":"15:40:04"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to 1222121","timestamp":"15:40:04"}
+{"level":"info","message":"User not Found For Phone No: 1222121","timestamp":"15:40:05"}
+{"level":"info","message":"User not Found For Phone No: 1222121","timestamp":"15:40:05"}
+{"level":"info","message":"Conversation user saved with phoneNo :1222121","timestamp":"15:40:05"}
+{"level":"info","message":"Conversation user saved with phoneNo :5212","timestamp":"15:40:05"}
+{"level":"info","message":"LocationController.setMarker called  :New marker with sort order**72.089316**31.520145","timestamp":"15:53:16"}
+{"level":"info","message":"Marker Created : New marker with sort order","timestamp":"15:53:16"}

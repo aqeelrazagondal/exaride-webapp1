@@ -1,0 +1,13 @@
+{"level":"info","message":"Admin login Method Called","timestamp":"11:59:33"}
+{"level":"info","message":" Exit Admin Login Method","timestamp":"11:59:33"}
+{"level":"info","message":"admin Not Found with username :saif","timestamp":"11:59:34"}
+{"level":"info","message":"Admin login Method Called","timestamp":"13:35:30"}
+{"level":"info","message":" Exit Admin Login Method","timestamp":"13:35:30"}
+{"level":"info","message":"admin Found with username :saif","timestamp":"13:35:30"}
+{"level":"info","message":"Wrong Password","timestamp":"13:35:30"}
+{"level":"info","message":"Admin login Method Called","timestamp":"13:35:43"}
+{"level":"info","message":" Exit Admin Login Method","timestamp":"13:35:43"}
+{"level":"info","message":"admin Found with username :saif","timestamp":"13:35:43"}
+{"level":"info","message":"Admin login Method Called","timestamp":"17:20:48"}
+{"level":"info","message":" Exit Admin Login Method","timestamp":"17:20:48"}
+{"level":"info","message":"admin Found with username :saif","timestamp":"17:20:51"}

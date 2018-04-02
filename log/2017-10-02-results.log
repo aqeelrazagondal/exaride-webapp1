@@ -1,0 +1,10 @@
+{"level":"info","message":"reqData  :undefined","timestamp":"14:48:57"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"14:48:57"}
+{"level":"info","message":"An Exception occured ChatController.createGroup SyntaxError: Unexpected token + in JSON at position 0","timestamp":"14:48:57"}
+{"level":"info","message":"reqData  :undefined","timestamp":"14:55:06"}
+{"level":"info","message":"reqData  :undefined","timestamp":"14:57:23"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"14:57:23"}
+{"level":"info","message":"An Exception occured ChatController.createGroup SyntaxError: Unexpected token + in JSON at position 0","timestamp":"14:57:23"}
+{"level":"info","message":"reqData  :undefined","timestamp":"15:00:16"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"15:00:16"}
+{"level":"info","message":"An Exception occured ChatController.createGroup SyntaxError: Unexpected token + in JSON at position 0","timestamp":"15:00:16"}

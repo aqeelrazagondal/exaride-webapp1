@@ -1,0 +1,72 @@
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923345022570**true","timestamp":"13:12:16"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"13:12:18"}
+{"level":"info","message":"+923345022570location flag : true","timestamp":"13:12:18"}
+{"level":"info","message":"User Location With Phone Num +923345022570","timestamp":"13:12:19"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923345022570**false","timestamp":"13:13:07"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"13:13:08"}
+{"level":"info","message":"+923345022570location flag : false","timestamp":"13:13:08"}
+{"level":"info","message":"User Location With Phone Num +923345022570","timestamp":"13:13:08"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923345022570**true","timestamp":"14:21:16"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"14:21:16"}
+{"level":"info","message":"+923345022570location flag : true","timestamp":"14:21:16"}
+{"level":"info","message":"User Location With Phone Num +923345022570","timestamp":"14:21:17"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923074802433**true","timestamp":"14:21:31"}
+{"level":"info","message":"user found with phone no +923074802433","timestamp":"14:21:32"}
+{"level":"info","message":"+923074802433location flag : true","timestamp":"14:21:32"}
+{"level":"info","message":"User Location With Phone Num +923074802433","timestamp":"14:21:32"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923135570816**true","timestamp":"14:21:50"}
+{"level":"info","message":"user found with phone no +923135570816","timestamp":"14:21:50"}
+{"level":"info","message":"+923135570816location flag : true","timestamp":"14:21:50"}
+{"level":"info","message":"User Location With Phone Num +923135570816","timestamp":"14:21:51"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923074802434**true","timestamp":"14:22:00"}
+{"level":"info","message":"user found with phone no +923074802434","timestamp":"14:22:01"}
+{"level":"info","message":"+923074802434location flag : true","timestamp":"14:22:01"}
+{"level":"info","message":"User Location With Phone Num +923074802434","timestamp":"14:22:01"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923345022574**true","timestamp":"14:22:18"}
+{"level":"info","message":"user found with phone no +923345022574","timestamp":"14:22:18"}
+{"level":"info","message":"+923345022574location flag : true","timestamp":"14:22:18"}
+{"level":"info","message":"User Location With Phone Num +923345022574","timestamp":"14:22:19"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+9233159917709**true","timestamp":"14:22:27"}
+{"level":"info","message":"user found with phone no +9233159917709","timestamp":"14:22:27"}
+{"level":"info","message":"+9233159917709location flag : true","timestamp":"14:22:27"}
+{"level":"info","message":"User Location With Phone Num +9233159917709","timestamp":"14:22:27"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923311334441**true","timestamp":"14:22:53"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"14:22:54"}
+{"level":"info","message":"+923311334441location flag : true","timestamp":"14:22:54"}
+{"level":"info","message":"User Location With Phone Num +923311334441","timestamp":"14:22:54"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923115436350**true","timestamp":"14:23:06"}
+{"level":"info","message":"user found with phone no +923115436350","timestamp":"14:23:07"}
+{"level":"info","message":"+923115436350location flag : true","timestamp":"14:23:07"}
+{"level":"info","message":"User Location With Phone Num +923115436350","timestamp":"14:23:08"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923124999213**true","timestamp":"14:23:20"}
+{"level":"info","message":"user found with phone no +923124999213","timestamp":"14:23:21"}
+{"level":"info","message":"+923124999213location flag : true","timestamp":"14:23:21"}
+{"level":"info","message":"User Location With Phone Num +923124999213","timestamp":"14:23:21"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923159917709**true","timestamp":"14:23:38"}
+{"level":"info","message":"user found with phone no +923159917709","timestamp":"14:23:38"}
+{"level":"info","message":"+923159917709location flag : true","timestamp":"14:23:38"}
+{"level":"info","message":"User Location With Phone Num +923159917709","timestamp":"14:23:39"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923365717729**true","timestamp":"14:24:08"}
+{"level":"info","message":"user found with phone no +923365717729","timestamp":"14:24:09"}
+{"level":"info","message":"+923365717729location flag : true","timestamp":"14:24:09"}
+{"level":"info","message":"User Location With Phone Num +923365717729","timestamp":"14:24:09"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923005162731**true","timestamp":"14:24:17"}
+{"level":"info","message":"user found with phone no +923005162731","timestamp":"14:24:18"}
+{"level":"info","message":"+923005162731location flag : true","timestamp":"14:24:18"}
+{"level":"info","message":"User Location With Phone Num +923005162731","timestamp":"14:24:18"}
+{"level":"info","message":"LocationController.updateShareLocationFlag called  :+923005162731**true","timestamp":"15:38:15"}
+{"level":"info","message":"user found with phone no +923005162731","timestamp":"15:38:15"}
+{"level":"info","message":"+923005162731location flag : true","timestamp":"15:38:15"}
+{"level":"info","message":"User Location With Phone Num +923005162731","timestamp":"15:38:15"}
+{"level":"info","message":"RegistrationController.updateName called for user  :undefined","timestamp":"19:36:54"}
+{"level":"info","message":"UserExists Method Called","timestamp":"19:36:54"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"19:36:54"}
+{"level":"info","message":" Exit RegistrationController.updateName Method","timestamp":"19:36:54"}
+{"level":"info","message":"User Not Found with Phone Num. :undefined","timestamp":"19:36:57"}
+{"level":"info","message":"No User Found to Update With Phone Num undefined","timestamp":"19:36:57"}
+{"level":"info","message":"RegistrationController.updateName called for user  :+923345022570","timestamp":"19:38:35"}
+{"level":"info","message":"UserExists Method Called","timestamp":"19:38:35"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"19:38:35"}
+{"level":"info","message":" Exit RegistrationController.updateName Method","timestamp":"19:38:35"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"19:38:35"}
+{"level":"info","message":"User Name updated With Phone Num +923345022570","timestamp":"19:38:35"}

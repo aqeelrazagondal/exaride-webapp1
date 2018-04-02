@@ -1,0 +1,55 @@
+{"level":"info","message":"File Is uploaded","timestamp":"13:45:55"}
+{"level":"info","message":"profilePhotoUrlhttps://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1520412355648.jpeg","timestamp":"13:45:55"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :undefined","timestamp":"13:45:55"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:45:55"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:45:55"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"13:45:55"}
+{"level":"info","message":"User Not Found with Phone Num. :undefined","timestamp":"13:45:56"}
+{"level":"info","message":"User Not Found to Update With Phone Num undefined","timestamp":"13:45:56"}
+{"level":"info","message":"File Is uploaded","timestamp":"13:47:26"}
+{"level":"info","message":"profilePhotoUrlhttps://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1520412446262.jpeg","timestamp":"13:47:26"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923431469988","timestamp":"13:47:26"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:47:26"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:47:26"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"13:47:26"}
+{"level":"info","message":"User Not Found with Phone Num. :+923431469988","timestamp":"13:47:26"}
+{"level":"info","message":"User Not Found to Update With Phone Num +923431469988","timestamp":"13:47:26"}
+{"level":"info","message":"In routes get single user, where phone NO. : undefined","timestamp":"13:48:29"}
+{"level":"info","message":"user not found with phone no undefined","timestamp":"13:48:29"}
+{"level":"info","message":"Response Of userExists Method : null","timestamp":"13:48:29"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"14:16:12"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :3431469988","timestamp":"14:16:12"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:16:12"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:16:12"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"14:16:12"}
+{"level":"info","message":"User Found with Phone Num. :3431469988","timestamp":"14:16:12"}
+{"level":"info","message":"User Exists Response : { _id: 5a9e321979f0e456d46b876c,\n  updatedAt: 2018-03-06T06:15:53.816Z,\n  createdAt: 2018-03-06T06:15:53.816Z,\n  phone: '3431469988',\n  country_code: '+92',\n  verified_user: false,\n  verification_code: '0548',\n  __v: 0,\n  last_shared_loc_time: 2018-03-06T06:15:53.785Z,\n  share_loc_flag_time: 2018-03-06T06:15:53.785Z,\n  share_location: true,\n  deactivate_user: false,\n  profile_photo_url: null }","timestamp":"14:16:13"}
+{"level":"info","message":"File Is uploaded","timestamp":"14:17:35"}
+{"level":"info","message":"profilePhotoUrlhttps://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1520414255690.jpeg","timestamp":"14:17:35"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :23431469988","timestamp":"14:17:35"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:17:35"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:17:35"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"14:17:35"}
+{"level":"info","message":"User Not Found with Phone Num. :23431469988","timestamp":"14:17:35"}
+{"level":"info","message":"User Not Found to Update With Phone Num 23431469988","timestamp":"14:17:35"}
+{"level":"info","message":"RegistrationController.verifyCode called  :3431469988 - 1234","timestamp":"14:21:18"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:21:18"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:21:18"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"14:21:18"}
+{"level":"info","message":"User Found with Phone Num. :3431469988","timestamp":"14:21:18"}
+{"level":"info","message":"File Is uploaded","timestamp":"14:22:23"}
+{"level":"info","message":"profilePhotoUrlhttps://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1520414543335.jpeg","timestamp":"14:22:23"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :3431469988","timestamp":"14:22:23"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:22:23"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:22:23"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"14:22:23"}
+{"level":"info","message":"User Found with Phone Num. :3431469988","timestamp":"14:22:23"}
+{"level":"info","message":"User updated With Phone Num 3431469988","timestamp":"14:22:23"}
+{"level":"info","message":"File Is uploaded","timestamp":"14:23:36"}
+{"level":"info","message":"profilePhotoUrlhttps://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1520414616428.mp4","timestamp":"14:23:36"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :3431469988","timestamp":"14:23:36"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:23:36"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:23:36"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"14:23:36"}
+{"level":"info","message":"User Found with Phone Num. :3431469988","timestamp":"14:23:36"}
+{"level":"info","message":"User updated With Phone Num 3431469988","timestamp":"14:23:36"}

@@ -1,0 +1,32 @@
+{"level":"info","message":"Photo Is uploaded","timestamp":"14:32:20"}
+{"level":"info","message":"ChatController.updateGroupProfilePhoto called for converation  :59cf96a81542810012b53be1","timestamp":"14:32:20"}
+{"level":"info","message":" Exit ChatController.updateGroupProfilePhoto Method","timestamp":"14:32:20"}
+{"level":"info","message":"Group Profile Photo updated With conversationId59cf96a81542810012b53be1","timestamp":"14:32:21"}
+{"level":"info","message":"data received after updating Group profile picture","timestamp":"14:32:21"}
+{"level":"info","message":"ChatController.updateGroupName called for user  :59cf96a81542810012b53be1","timestamp":"14:32:21"}
+{"level":"info","message":" Exit ChatController.updateGroupName Method","timestamp":"14:32:21"}
+{"level":"info","message":"Group Name updated With ConversationId 59cf96a81542810012b53be1","timestamp":"14:32:21"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"14:32:21"}
+{"level":"info","message":"data received after updating profile picture","timestamp":"14:32:21"}
+{"level":"info","message":"5 members Found","timestamp":"14:32:22"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"14:33:47"}
+{"level":"info","message":"ChatController.updateGroupProfilePhoto called for converation  :59cf96a81542810012b53be1","timestamp":"14:33:47"}
+{"level":"info","message":" Exit ChatController.updateGroupProfilePhoto Method","timestamp":"14:33:47"}
+{"level":"info","message":"Group Profile Photo updated With conversationId59cf96a81542810012b53be1","timestamp":"14:33:48"}
+{"level":"info","message":"data received after updating Group profile picture","timestamp":"14:33:48"}
+{"level":"info","message":"ChatController.updateGroupName called for user  :59cf96a81542810012b53be1","timestamp":"14:33:48"}
+{"level":"info","message":" Exit ChatController.updateGroupName Method","timestamp":"14:33:48"}
+{"level":"info","message":"Group Name updated With ConversationId 59cf96a81542810012b53be1","timestamp":"14:33:49"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"14:33:49"}
+{"level":"info","message":"data received after updating profile picture","timestamp":"14:33:49"}
+{"level":"info","message":"5 members Found","timestamp":"14:33:49"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 5","timestamp":"14:33:49"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to +921234567890","timestamp":"14:33:49"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to +923115436350","timestamp":"14:33:49"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to +923345022570","timestamp":"14:33:49"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"14:33:50"}
+{"level":"info","message":"Sending Notification to player id undefined","timestamp":"14:33:50"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"14:33:50"}
+{"level":"info","message":"Sending Notification to player id c3a5657c-03bb-4fe2-8237-650d364dc2bf","timestamp":"14:33:50"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"14:33:50"}
+{"level":"info","message":"Sending Notification to player id 38792a6d-7730-443c-8915-eab0545132ae","timestamp":"14:33:50"}

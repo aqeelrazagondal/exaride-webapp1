@@ -1,0 +1,8 @@
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"15:13:09"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+92333333","timestamp":"15:13:09"}
+{"level":"info","message":"UserExists Method Called","timestamp":"15:13:09"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"15:13:09"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"15:13:09"}
+{"level":"info","message":"User Not Found with Phone Num. :+92333333","timestamp":"15:13:10"}
+{"level":"info","message":"User Exists Response : null","timestamp":"15:13:10"}
+{"level":"info","message":"User Created With Phone Num +92333333","timestamp":"15:13:10"}

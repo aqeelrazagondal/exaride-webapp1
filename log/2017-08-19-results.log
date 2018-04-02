@@ -1,0 +1,32 @@
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"2:11:57 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+7777","timestamp":"2:11:57 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"2:11:57 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"2:11:57 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"2:11:57 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+7777","timestamp":"2:11:57 PM"}
+{"level":"info","message":"User Created With Phone Num +7777","timestamp":"2:11:57 PM"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+7777 - 1234","timestamp":"2:12:16 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"2:12:16 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"2:12:16 PM"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"2:12:16 PM"}
+{"level":"info","message":"User Found with Phone Num. :+7777","timestamp":"2:12:16 PM"}
+{"level":"info","message":"RegistrationController.syncContacts called  :","timestamp":"2:13:42 PM"}
+{"level":"info","message":" Exit RegistrationController.syncContacts Method","timestamp":"2:13:42 PM"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+7777","timestamp":"2:31:18 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"2:31:18 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"2:31:18 PM"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"2:31:18 PM"}
+{"level":"info","message":"User Found with Phone Num. :+7777","timestamp":"2:31:18 PM"}
+{"level":"info","message":"User updating With Phone Num +7777","timestamp":"2:31:19 PM"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+7777","timestamp":"3:32:57 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:32:57 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:32:57 PM"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"3:32:57 PM"}
+{"level":"info","message":"User Found with Phone Num. :+7777","timestamp":"3:32:58 PM"}
+{"level":"info","message":"User updated With Phone Num +7777","timestamp":"3:32:58 PM"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+7777","timestamp":"3:35:55 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:35:55 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:35:55 PM"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"3:35:55 PM"}
+{"level":"info","message":"User Found with Phone Num. :+7777","timestamp":"3:35:56 PM"}
+{"level":"info","message":"User updated With Phone Num +7777","timestamp":"3:35:56 PM"}

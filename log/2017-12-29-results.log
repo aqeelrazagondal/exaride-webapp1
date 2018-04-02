@@ -1,0 +1,38 @@
+{"level":"info","message":"LocationController.updateMarker called  :Saif Home Updated 3**72.089316**31.520145","timestamp":"12:06:39"}
+{"level":"info","message":"markerExists Method Called","timestamp":"12:06:39"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"12:06:39"}
+{"level":"info","message":"Marker Found  :","timestamp":"12:06:39"}
+{"level":"info","message":"marker updated  ","timestamp":"12:06:39"}
+{"level":"info","message":"LocationController.updateMarker called  :Saif Home Updated 3**72.089316**31.520145","timestamp":"12:08:21"}
+{"level":"info","message":"markerExists Method Called","timestamp":"12:08:21"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"12:08:21"}
+{"level":"info","message":"Marker Found  :","timestamp":"12:08:21"}
+{"level":"info","message":"marker updated  ","timestamp":"12:08:22"}
+{"level":"info","message":"LocationController.updateMarker called  :Saif Home Updated 2**72.089316**31.520145","timestamp":"12:12:14"}
+{"level":"info","message":"markerExists Method Called","timestamp":"12:12:14"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"12:12:14"}
+{"level":"info","message":"Marker Found  :","timestamp":"12:12:15"}
+{"level":"info","message":"marker updated  ","timestamp":"12:12:15"}
+{"level":"info","message":"LocationController.updateMarker called  :Saif Home Updated 3**72.089316**31.520145","timestamp":"12:14:22"}
+{"level":"info","message":"markerExists Method Called","timestamp":"12:14:22"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"12:14:22"}
+{"level":"info","message":"Marker Found  :","timestamp":"12:14:22"}
+{"level":"info","message":"marker updated  ","timestamp":"12:14:23"}
+{"level":"info","message":"LocationController.updateMarker called  :Saif Home Updated 3**72.089316**31.520145","timestamp":"12:14:48"}
+{"level":"info","message":"markerExists Method Called","timestamp":"12:14:48"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"12:14:48"}
+{"level":"info","message":"Marker Found  :","timestamp":"12:14:49"}
+{"level":"info","message":"marker updated  ","timestamp":"12:14:49"}
+{"level":"info","message":"LocationController.updateMarker called  :Saif Home Updated 3**72.089316**31.520145","timestamp":"12:15:18"}
+{"level":"info","message":"markerExists Method Called","timestamp":"12:15:18"}
+{"level":"info","message":" Exit MarkerExists Method","timestamp":"12:15:18"}
+{"level":"info","message":"Marker Found  :","timestamp":"12:15:19"}
+{"level":"info","message":"marker updated  ","timestamp":"12:15:19"}
+{"level":"info","message":"LocationController.addMarkerCategory called  :Umrah","timestamp":"14:18:17"}
+{"level":"info","message":"MarkerCategory Created : Umrah","timestamp":"14:18:19"}
+{"level":"info","message":"LocationController.updateCategoryMarker called  :Umrah 1","timestamp":"14:20:49"}
+{"level":"error","message":"No  Such Category found to update null","timestamp":"14:20:49"}
+{"level":"info","message":"LocationController.updateCategoryMarker called  :Umrah 1","timestamp":"14:21:38"}
+{"level":"info","message":"Marker Category updated  ","timestamp":"14:21:39"}
+{"level":"info","message":"deleteMarkerCategory Method Called for id : 5a4608593b78c328e460a886","timestamp":"14:36:30"}
+{"level":"info","message":"Marker category with id 5a4608593b78c328e460a886 successfully Removed","timestamp":"14:36:30"}

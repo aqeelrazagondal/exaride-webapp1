@@ -1,0 +1,54 @@
+{"level":"info","message":"closeGroup Method Called ","timestamp":"13:35:44"}
+{"level":"info","message":"2 members Found","timestamp":"13:35:44"}
+{"level":"info","message":"closeGroup Method Called ","timestamp":"13:36:22"}
+{"level":"info","message":"2 members Found","timestamp":"13:36:22"}
+{"level":"info","message":"closeGroup Method Called ","timestamp":"13:37:05"}
+{"level":"info","message":"2 members Found","timestamp":"13:37:08"}
+{"level":"info","message":"closeGroup Method Called ","timestamp":"13:37:48"}
+{"level":"info","message":"2 members Found","timestamp":"13:37:55"}
+{"level":"info","message":"closeGroup Method Called ","timestamp":"13:39:16"}
+{"level":"info","message":"2 members Found","timestamp":"13:39:19"}
+{"level":"info","message":"closeGroup Method Called ","timestamp":"15:12:17"}
+{"level":"info","message":"2 members Found","timestamp":"15:12:18"}
+{"level":"info","message":"Conversation user suuccessfully Removed","timestamp":"15:12:18"}
+{"level":"info","message":"Conversation user suuccessfully Removed","timestamp":"15:12:18"}
+{"level":"info","message":"closeGroup Method Called ","timestamp":"16:08:50"}
+{"level":"info","message":"8 members Found","timestamp":"16:08:51"}
+{"level":"info","message":"Conversation user suuccessfully Removed","timestamp":"16:08:51"}
+{"level":"info","message":"Conversation user suuccessfully Removed","timestamp":"16:08:53"}
+{"level":"info","message":"Conversation user suuccessfully Removed","timestamp":"16:08:53"}
+{"level":"info","message":"Conversation user suuccessfully Removed","timestamp":"16:08:54"}
+{"level":"info","message":"Conversation user suuccessfully Removed","timestamp":"16:08:54"}
+{"level":"info","message":"User Found For Phone No: +923018158629","timestamp":"16:08:55"}
+{"level":"info","message":"Sending Notification of closed Group to player id 424efbd2-1b08-4ddf-93da-7c5b76a24673","timestamp":"16:08:55"}
+{"level":"info","message":"Conversation user suuccessfully Removed","timestamp":"16:08:56"}
+{"level":"info","message":"Conversation user suuccessfully Removed","timestamp":"16:08:56"}
+{"level":"info","message":"Conversation user suuccessfully Removed","timestamp":"16:08:56"}
+{"level":"info","message":"User Found For Phone No: +923311334441","timestamp":"16:08:57"}
+{"level":"info","message":"Sending Notification of closed Group to player id 03bd1410-c6f1-4e14-9e12-02e6fd718691","timestamp":"16:08:57"}
+{"level":"info","message":"User Found For Phone No: +923074802433","timestamp":"16:08:57"}
+{"level":"info","message":"Sending Notification of closed Group to player id cb7d7d30-b3af-4bbc-84dc-beb4937bc37f","timestamp":"16:08:57"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"16:08:57"}
+{"level":"info","message":"Sending Notification of closed Group to player id c3a5657c-03bb-4fe2-8237-650d364dc2bf","timestamp":"16:08:57"}
+{"level":"info","message":"User Found For Phone No: +923115436350","timestamp":"16:08:57"}
+{"level":"info","message":"Sending Notification of closed Group to player id 38792a6d-7730-443c-8915-eab0545132ae","timestamp":"16:08:57"}
+{"level":"info","message":"User Found For Phone No: +923365717729","timestamp":"16:08:57"}
+{"level":"info","message":"Sending Notification of closed Group to player id undefined","timestamp":"16:08:57"}
+{"level":"info","message":"User Found For Phone No: +923124999213","timestamp":"16:08:57"}
+{"level":"info","message":"Sending Notification of closed Group to player id 03bd1410-c6f1-4e14-9e12-02e6fd718691","timestamp":"16:08:57"}
+{"level":"info","message":"User Found For Phone No: +923159917709","timestamp":"16:08:57"}
+{"level":"info","message":"Sending Notification of closed Group to player id 1e3d40a9-78c0-4392-8bd5-dc93d02379fa","timestamp":"16:08:57"}
+{"level":"info","message":"closeGroup Method Called ","timestamp":"17:04:55"}
+{"level":"info","message":"0 members Found","timestamp":"17:04:56"}
+{"level":"info","message":"closeGroup Method Called ","timestamp":"17:05:09"}
+{"level":"info","message":"0 members Found","timestamp":"17:05:10"}
+{"level":"info","message":"closeGroup Method Called ","timestamp":"22:25:16"}
+{"level":"info","message":"0 members Found","timestamp":"22:25:16"}
+{"level":"info","message":"removeGroupMember Method Called","timestamp":"23:47:43"}
+{"level":"info","message":"An Exception occured ChatController.removeGroupMember SyntaxError: Unexpected token o in JSON at position 1","timestamp":"23:47:43"}
+{"level":"info","message":"removeGroupMember Method Called","timestamp":"23:48:20"}
+{"level":"info","message":"Conversation user with phoneNo 12121 suuccessfully Removed","timestamp":"23:48:21"}
+{"level":"info","message":"Conversation user with phoneNo 121212 suuccessfully Removed","timestamp":"23:48:21"}
+{"level":"info","message":"removeGroupMember Method Called","timestamp":"23:48:44"}
+{"level":"info","message":"Conversation user with phoneNo 121212 suuccessfully Removed","timestamp":"23:48:45"}
+{"level":"info","message":"Conversation user with phoneNo 12121 suuccessfully Removed","timestamp":"23:48:45"}

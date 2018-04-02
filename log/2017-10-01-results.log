@@ -1,0 +1,10 @@
+{"level":"info","message":"LocationController.updateUserLocation called  :undefined**undefined**undefined","timestamp":"22:50:20"}
+{"level":"info","message":"user not found with phone no undefined","timestamp":"22:50:21"}
+{"level":"info","message":"removeGroupMember Method Called","timestamp":"22:52:41"}
+{"level":"info","message":"An Exception occured ChatController.removeGroupMember SyntaxError: Unexpected token o in JSON at position 1","timestamp":"22:52:41"}
+{"level":"info","message":"removeGroupMember Method Called","timestamp":"22:57:28"}
+{"level":"info","message":"Conversation user with phoneNo 121212222 suuccessfully Removed","timestamp":"22:57:29"}
+{"level":"info","message":"Conversation user with phoneNo 12222121 suuccessfully Removed","timestamp":"22:57:29"}
+{"level":"info","message":"removeGroupMember Method Called","timestamp":"22:58:42"}
+{"level":"info","message":"Conversation user with phoneNo 121212 suuccessfully Removed","timestamp":"22:58:42"}
+{"level":"info","message":"Conversation user with phoneNo 12121 suuccessfully Removed","timestamp":"22:58:42"}

@@ -1,0 +1,19 @@
+{"level":"info","message":"addGroupMember Method Called","timestamp":"16:17:28"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to 1111","timestamp":"16:17:28"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to +923345022570","timestamp":"16:17:28"}
+{"level":"info","message":"User not Found For Phone No: +923345022570","timestamp":"16:17:29"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"16:18:57"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to 1111","timestamp":"16:18:57"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to +923345022570","timestamp":"16:18:57"}
+{"level":"info","message":"User not Found For Phone No: +923345022570","timestamp":"16:18:59"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"16:18:59"}
+{"level":"info","message":"Sending Notification to player id c3a5657c-03bb-4fe2-8237-650d364dc2bf","timestamp":"16:18:59"}
+{"level":"info","message":"addGroupMember Method Called","timestamp":"16:42:18"}
+{"level":"info","message":"conversation Found with Phone Num. :59ccbc9d4219ef00123854e8","timestamp":"16:42:21"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to 1111","timestamp":"16:42:21"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to +923345022570","timestamp":"16:42:21"}
+{"level":"info","message":"User not Found For Phone No: +923345022570","timestamp":"16:42:21"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"16:42:21"}
+{"level":"info","message":"Sending Notification to player id c3a5657c-03bb-4fe2-8237-650d364dc2bf","timestamp":"16:42:21"}
+{"level":"info","message":"Conversation user saved with phoneNo :1111","timestamp":"16:42:23"}
+{"level":"info","message":"Conversation user saved with phoneNo :+923345022570","timestamp":"16:42:23"}

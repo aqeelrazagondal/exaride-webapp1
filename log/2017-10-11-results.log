@@ -1,0 +1,89 @@
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:37:36"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+9233450225777","timestamp":"12:37:36"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:37:36"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:37:36"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:37:36"}
+{"level":"info","message":"User Not Found with Phone Num. :+9233450225777","timestamp":"12:37:37"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:37:37"}
+{"level":"info","message":"User Created With Phone Num +9233450225777","timestamp":"12:37:37"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:10:00"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+9233450225777","timestamp":"13:10:00"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:10:00"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:10:00"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:10:00"}
+{"level":"info","message":"User Found with Phone Num. :+9233450225777","timestamp":"13:10:01"}
+{"level":"info","message":"User Exists Response : { _id: 59ddca41aec56142242506e5,\n  updatedAt: 2017-10-11T07:37:37.265Z,\n  createdAt: 2017-10-11T07:37:37.265Z,\n  phone: '+9233450225777',\n  country_code: '+92',\n  verified_user: false,\n  __v: 0,\n  share_location: true,\n  profile_photo_url: null }","timestamp":"13:10:01"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:10:48"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+9233450225778","timestamp":"13:10:48"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:10:48"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:10:48"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:10:48"}
+{"level":"info","message":"User Not Found with Phone Num. :+9233450225778","timestamp":"13:10:48"}
+{"level":"info","message":"User Exists Response : null","timestamp":"13:10:48"}
+{"level":"info","message":"User Created With Phone Num +9233450225778","timestamp":"13:10:48"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:34:41"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+9233450225778","timestamp":"13:34:44"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:34:44"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:34:44"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:34:44"}
+{"level":"info","message":"User Found with Phone Num. :+9233450225778","timestamp":"13:34:44"}
+{"level":"info","message":"User Exists Response : { _id: 59ddd208e2e1513bc0da8ed6,\n  updatedAt: 2017-10-11T08:10:48.529Z,\n  createdAt: 2017-10-11T08:10:48.529Z,\n  phone: '+9233450225778',\n  country_code: '+92',\n  verified_user: false,\n  __v: 0,\n  share_location: true,\n  profile_photo_url: null }","timestamp":"13:34:45"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:35:30"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923115436350","timestamp":"13:35:30"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:35:30"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:35:30"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:35:30"}
+{"level":"info","message":"User Found with Phone Num. :+923115436350","timestamp":"13:35:31"}
+{"level":"info","message":"User Exists Response : { _id: 59b14f10a7c78b0012a237fb,\n  updatedAt: 2017-10-11T07:28:16.587Z,\n  createdAt: 2017-09-07T13:52:16.558Z,\n  phone: '+923115436350',\n  country_code: '+92',\n  verified_user: true,\n  __v: 903,\n  OS: 'Android',\n  active: false,\n  full_name: 'Sajid ',\n  loc: [ 73.09208, 33.52168 ],\n  palyer_id: '38792a6d-7730-443c-8915-eab0545132ae',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1507702261649.png' }","timestamp":"13:35:31"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923115436350 - 1234","timestamp":"13:42:31"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:42:31"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:42:31"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"13:42:31"}
+{"level":"info","message":"User Found with Phone Num. :+923115436350","timestamp":"13:42:31"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923115436350 - 3583","timestamp":"13:42:51"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:42:51"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:42:51"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"13:42:51"}
+{"level":"info","message":"User Found with Phone Num. :+923115436350","timestamp":"13:42:51"}
+{"level":"info","message":"Wrong Code Sent For Verifcation :3583","timestamp":"13:42:51"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923115436350 - 3583","timestamp":"13:44:37"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:44:37"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:44:37"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"13:44:37"}
+{"level":"info","message":"User Found with Phone Num. :+923115436350","timestamp":"13:44:37"}
+{"level":"info","message":" verification_code : undefined","timestamp":"13:44:37"}
+{"level":"info","message":"Wrong Code Sent For Verifcation :3583","timestamp":"13:44:37"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:46:46"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923115436350","timestamp":"13:46:46"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:46:46"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:46:46"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:46:46"}
+{"level":"info","message":"User Found with Phone Num. :+923115436350","timestamp":"13:46:46"}
+{"level":"info","message":"User Exists Response : { _id: 59b14f10a7c78b0012a237fb,\n  updatedAt: 2017-10-11T07:28:16.587Z,\n  createdAt: 2017-09-07T13:52:16.558Z,\n  phone: '+923115436350',\n  country_code: '+92',\n  verified_user: true,\n  __v: 903,\n  OS: 'Android',\n  active: false,\n  full_name: 'Sajid ',\n  loc: [ 73.09208, 33.52168 ],\n  palyer_id: '38792a6d-7730-443c-8915-eab0545132ae',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1507702261649.png' }","timestamp":"13:46:46"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923115436350 - 0987","timestamp":"13:47:14"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:47:14"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:47:14"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"13:47:14"}
+{"level":"info","message":"User Found with Phone Num. :+923115436350","timestamp":"13:47:14"}
+{"level":"info","message":" verification_code : 0987","timestamp":"13:47:14"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"14:04:34"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923115436350","timestamp":"14:09:07"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:09:07"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:09:07"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"14:09:07"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"14:09:07"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923115436350","timestamp":"14:09:07"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:09:07"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:09:07"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"14:09:07"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923115436350 - 0987","timestamp":"14:09:07"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:09:07"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:09:07"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"14:09:07"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"14:09:47"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923115436350","timestamp":"14:09:47"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:09:47"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:09:47"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"14:09:47"}
+{"level":"info","message":"User Found with Phone Num. :+923115436350","timestamp":"14:09:48"}
+{"level":"info","message":"User Exists Response : { _id: 59b14f10a7c78b0012a237fb,\n  updatedAt: 2017-10-11T09:03:47.432Z,\n  createdAt: 2017-09-07T13:52:16.558Z,\n  phone: '+923115436350',\n  country_code: '+92',\n  verified_user: true,\n  __v: 903,\n  OS: 'Android',\n  active: false,\n  full_name: 'Sajid ',\n  loc: [ 73.09208, 33.52168 ],\n  palyer_id: '38792a6d-7730-443c-8915-eab0545132ae',\n  verification_code: '5777',\n  share_location: true,\n  profile_photo_url: 'https://aldaalah.herokuapp.com/images/profileImages/profilePhoto-1507702261649.png' }","timestamp":"14:09:48"}

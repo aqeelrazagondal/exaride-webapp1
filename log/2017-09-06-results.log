@@ -1,0 +1,88 @@
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:30:56"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+92","timestamp":"11:30:56"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:30:56"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:30:56"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:30:56"}
+{"level":"info","message":"User Not Found with Phone Num. :+92","timestamp":"11:30:57"}
+{"level":"info","message":"User Created With Phone Num +92","timestamp":"11:30:57"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:34:43"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022570","timestamp":"11:34:43"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:34:43"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:34:43"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:34:43"}
+{"level":"info","message":"User Not Found with Phone Num. :+923345022570","timestamp":"11:34:44"}
+{"level":"info","message":"User Created With Phone Num +923345022570","timestamp":"11:34:44"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923345022571 - 1234","timestamp":"11:36:21"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:36:21"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:36:21"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"11:36:21"}
+{"level":"info","message":"User Not Found with Phone Num. :+923345022571","timestamp":"11:36:22"}
+{"level":"info","message":"User Not Found with Phone Num. :+923345022571","timestamp":"11:36:22"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923345022570 - 1234","timestamp":"11:36:29"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:36:29"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:36:29"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"11:36:29"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"11:36:29"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"11:39:17"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:39:17"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:39:17"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"11:39:17"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"11:39:17"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"11:39:17"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"11:43:00"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022571","timestamp":"11:43:00"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:43:00"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:43:00"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"11:43:00"}
+{"level":"info","message":"User Not Found with Phone Num. :+923345022571","timestamp":"11:43:00"}
+{"level":"info","message":"User Created With Phone Num +923345022571","timestamp":"11:43:01"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923345022571 - 1234","timestamp":"11:43:07"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:43:07"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:43:07"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"11:43:07"}
+{"level":"info","message":"User Found with Phone Num. :+923345022571","timestamp":"11:43:07"}
+{"level":"info","message":"File Is uploaded","timestamp":"11:43:49"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022571","timestamp":"11:43:49"}
+{"level":"info","message":"UserExists Method Called","timestamp":"11:43:49"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"11:43:49"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"11:43:49"}
+{"level":"info","message":"User Found with Phone Num. :+923345022571","timestamp":"11:43:49"}
+{"level":"info","message":"User updated With Phone Num +923345022571","timestamp":"11:43:49"}
+{"level":"info","message":"File Is uploaded","timestamp":"12:05:13"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"12:05:13"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:05:13"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:05:13"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"12:05:13"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"12:05:14"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"12:05:14"}
+{"level":"info","message":"File Is uploaded","timestamp":"12:06:27"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"12:06:27"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:06:27"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:06:27"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"12:06:27"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"12:06:28"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"12:06:28"}
+{"level":"info","message":"RegistrationController.syncContacts called  :","timestamp":"12:08:45"}
+{"level":"info","message":" Exit RegistrationController.syncContacts Method","timestamp":"12:08:45"}
+{"level":"info","message":"RegistrationController.syncContacts called  :","timestamp":"12:09:06"}
+{"level":"info","message":" Exit RegistrationController.syncContacts Method","timestamp":"12:09:06"}
+{"level":"info","message":"File Is uploaded","timestamp":"12:11:27"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"12:11:27"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:11:27"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:11:27"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"12:11:27"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"12:11:27"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"12:11:27"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"17:18:06"}
+{"level":"info","message":"RegistrationController.updateProfilePhoto called for user  :+923345022570","timestamp":"17:18:06"}
+{"level":"info","message":"UserExists Method Called","timestamp":"17:18:06"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"17:18:06"}
+{"level":"info","message":" Exit RegistrationController.updateProfilePhoto Method","timestamp":"17:18:06"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"17:18:07"}
+{"level":"info","message":"Photo Is uploaded","timestamp":"17:19:28"}
+{"level":"info","message":"RegistrationController.updateProfilePhoto called for user  :+923345022570","timestamp":"17:19:28"}
+{"level":"info","message":"UserExists Method Called","timestamp":"17:19:28"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"17:19:28"}
+{"level":"info","message":" Exit RegistrationController.updateProfilePhoto Method","timestamp":"17:19:28"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"17:19:30"}
+{"level":"info","message":"User Profile Photo updated With Phone Num +923345022570","timestamp":"17:19:30"}

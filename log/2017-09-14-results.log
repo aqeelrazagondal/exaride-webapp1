@@ -1,0 +1,30 @@
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"10:25:12"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"10:25:12"}
+{"level":"info","message":" Error Occured While Getting conversation Uses : CastError: Cast to ObjectId failed for value \"5922\" at path \"_conversationId\" for model \"ConversationUser\"","timestamp":"10:25:12"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"10:25:47"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"10:25:47"}
+{"level":"info","message":"2 members Found","timestamp":"10:25:48"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"10:25:48"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"10:26:34"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"10:26:34"}
+{"level":"info","message":"2 members Found","timestamp":"10:26:34"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"10:26:34"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"12:01:48"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"12:01:48"}
+{"level":"info","message":"2 members Found","timestamp":"12:01:48"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"12:01:49"}
+{"level":"info","message":"Adding User in list :+923345022570","timestamp":"12:01:49"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"12:08:00"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"12:08:00"}
+{"level":"info","message":"2 members Found","timestamp":"12:08:00"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"12:08:00"}
+{"level":"info","message":"Adding User in list :+923311334441","timestamp":"12:08:00"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"12:08:00"}
+{"level":"info","message":"Adding User in list :+923345022570","timestamp":"12:08:00"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"12:08:59"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"12:08:59"}
+{"level":"info","message":"2 members Found","timestamp":"12:09:00"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"12:09:00"}
+{"level":"info","message":"Adding User in list :+923345022570","timestamp":"12:09:00"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"12:09:00"}
+{"level":"info","message":"Adding User in list :+923311334441","timestamp":"12:09:00"}

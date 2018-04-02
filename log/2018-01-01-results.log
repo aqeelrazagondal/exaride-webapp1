@@ -1,0 +1,7 @@
+{"level":"info","message":"removeGroupMember Method Called","timestamp":"01:34:12"}
+{"level":"info","message":"Group member to delet with PhoneNO : 5212","timestamp":"01:34:12"}
+{"level":"info","message":"Group member to delet with PhoneNO : 1222121","timestamp":"01:34:12"}
+{"level":"info","message":"Conversation user with phoneNo 5212 suuccessfully Removed","timestamp":"01:34:13"}
+{"level":"info","message":"Conversation user with phoneNo 1222121 suuccessfully Removed","timestamp":"01:34:13"}
+{"level":"info","message":"User not Found For Phone No: 5212","timestamp":"01:34:13"}
+{"level":"info","message":"User not Found For Phone No: 1222121","timestamp":"01:34:13"}

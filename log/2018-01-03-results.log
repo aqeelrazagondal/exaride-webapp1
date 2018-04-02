@@ -1,0 +1,21 @@
+{"level":"info","message":"Photo Is uploaded","timestamp":"17:12:16"}
+{"level":"info","message":"ChatController.updateGroupProfilePhoto called for converation  :59cf96a81542810012b53be1","timestamp":"17:12:16"}
+{"level":"info","message":" Exit ChatController.updateGroupProfilePhoto Method","timestamp":"17:12:16"}
+{"level":"info","message":"Group Profile Photo updated With conversationId59cf96a81542810012b53be1","timestamp":"17:12:17"}
+{"level":"info","message":"data received after updating Group profile picture","timestamp":"17:12:17"}
+{"level":"info","message":"ChatController.updateGroupName called for user  :59cf96a81542810012b53be1","timestamp":"17:12:17"}
+{"level":"info","message":" Exit ChatController.updateGroupName Method","timestamp":"17:12:17"}
+{"level":"info","message":"Group Name updated With ConversationId 59cf96a81542810012b53be1","timestamp":"17:12:17"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"17:12:17"}
+{"level":"info","message":"data received after updating profile picture","timestamp":"17:12:17"}
+{"level":"info","message":"5 members Found","timestamp":"17:12:18"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 5","timestamp":"17:12:18"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to +921234567890","timestamp":"17:12:18"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to +923115436350","timestamp":"17:12:18"}
+{"level":"info","message":"Sending Onesignal Notifcation of groupConversationRequest to +923345022570","timestamp":"17:12:18"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"17:12:18"}
+{"level":"info","message":"Sending Notification to player id undefined","timestamp":"17:12:18"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"17:12:18"}
+{"level":"info","message":"Sending Notification to player id 27c3ed26-a9f5-4f10-927d-ca8ee7877414","timestamp":"17:12:18"}
+{"level":"info","message":"User Found For Phone No: +923345022570","timestamp":"17:12:18"}
+{"level":"info","message":"Sending Notification to player id 38792a6d-7730-443c-8915-eab0545132ae","timestamp":"17:12:18"}

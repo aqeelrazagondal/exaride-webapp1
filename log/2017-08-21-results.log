@@ -1,0 +1,147 @@
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:32:22 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+88888","timestamp":"3:32:22 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:32:22 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:32:22 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:32:22 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+88888","timestamp":"3:32:22 PM"}
+{"level":"info","message":"User Created With Phone Num +88888","timestamp":"3:32:23 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:32:52 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+745555","timestamp":"3:32:52 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:32:52 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:32:52 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:32:52 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+745555","timestamp":"3:32:52 PM"}
+{"level":"info","message":"User Created With Phone Num +745555","timestamp":"3:32:52 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:33:47 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555","timestamp":"3:33:47 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:33:47 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:33:47 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:33:47 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555","timestamp":"3:33:47 PM"}
+{"level":"error","message":"Some Error while saving userValidationError: _id: Cast to ObjectID failed for value \"+55555\" at path \"_id\"","timestamp":"3:33:47 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:37:50 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555","timestamp":"3:37:50 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:37:50 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:37:50 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:37:50 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555","timestamp":"3:37:50 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:38:39 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+5555555555","timestamp":"3:38:39 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:38:39 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:38:39 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:38:39 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+5555555555","timestamp":"3:38:41 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:39:03 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+5555555555555555555","timestamp":"3:39:03 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:39:03 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:39:03 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:39:03 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+5555555555555555555","timestamp":"3:39:03 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:42:18 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555","timestamp":"3:42:18 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:42:18 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:42:18 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:42:18 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555","timestamp":"3:42:18 PM"}
+{"level":"error","message":"Some Error while saving userValidationError: _id: Cast to ObjectID failed for value \"[Function: toString]\" at path \"_id\"","timestamp":"3:42:18 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:42:49 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555","timestamp":"3:42:49 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:42:49 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:42:49 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:42:49 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555","timestamp":"3:42:51 PM"}
+{"level":"error","message":"Some Error while saving userValidationError: _id: Cast to ObjectID failed for value \"+55555\" at path \"_id\"","timestamp":"3:42:51 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:46:19 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555","timestamp":"3:46:19 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:46:19 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:46:19 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:46:19 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555","timestamp":"3:46:20 PM"}
+{"level":"error","message":"Some Error while saving userValidationError: _id: Cast to ObjectID failed for value \"+55555\" at path \"_id\"","timestamp":"3:46:20 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:49:03 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555","timestamp":"3:49:03 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:49:03 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:49:03 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:49:03 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555","timestamp":"3:49:05 PM"}
+{"level":"error","message":"Some Error while saving userValidationError: _id: Cast to ObjectID failed for value \"+55555\" at path \"_id\"","timestamp":"3:49:05 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:51:31 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555","timestamp":"3:51:31 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:51:31 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:51:31 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:51:31 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555","timestamp":"3:51:32 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"3:52:06 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555","timestamp":"3:52:06 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"3:52:06 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"3:52:06 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"3:52:06 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555","timestamp":"3:52:08 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"4:02:19 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555","timestamp":"4:02:19 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"4:02:19 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"4:02:19 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"4:02:19 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555","timestamp":"4:02:20 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"4:02:56 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555","timestamp":"4:02:56 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"4:02:56 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"4:02:56 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"4:02:56 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555","timestamp":"4:02:56 PM"}
+{"level":"error","message":"Some Error while saving userValidationError: _id: Cast to ObjectID failed for value \"+55555\" at path \"_id\"","timestamp":"4:02:56 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"4:03:56 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555","timestamp":"4:03:56 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"4:03:56 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"4:03:56 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"4:03:56 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555","timestamp":"4:03:58 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"4:04:20 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555555555555555555555","timestamp":"4:04:20 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"4:04:20 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"4:04:20 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"4:04:20 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555555555555555555555","timestamp":"4:04:20 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"4:05:56 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555555555555555555555","timestamp":"4:05:56 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"4:05:56 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"4:05:56 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"4:05:56 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555555555555555555555","timestamp":"4:05:58 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"5:06:10 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555555555555555555555","timestamp":"5:06:10 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"5:06:10 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"5:06:10 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"5:06:10 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555555555555555555555","timestamp":"5:06:10 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"5:06:23 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+5555555555555ab5555555555","timestamp":"5:06:23 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"5:06:23 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"5:06:23 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"5:06:23 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+5555555555555ab5555555555","timestamp":"5:06:25 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"5:10:57 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555555555555","timestamp":"5:10:57 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"5:10:57 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"5:10:57 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"5:10:57 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+55555555555555","timestamp":"5:10:57 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"5:11:17 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555555555555","timestamp":"5:11:17 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"5:11:17 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"5:11:17 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"5:11:17 PM"}
+{"level":"info","message":"User Found with Phone Num. :+55555555555555","timestamp":"5:11:19 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"5:16:01 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+55555555555555","timestamp":"5:16:01 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"5:16:01 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"5:16:01 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"5:16:01 PM"}
+{"level":"info","message":"User Found with Phone Num. :+55555555555555","timestamp":"5:16:01 PM"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"5:16:13 PM"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+555","timestamp":"5:16:13 PM"}
+{"level":"info","message":"UserExists Method Called","timestamp":"5:16:13 PM"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"5:16:13 PM"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"5:16:13 PM"}
+{"level":"info","message":"User Not Found with Phone Num. :+555","timestamp":"5:16:13 PM"}
+{"level":"info","message":"User Created With Phone Num +555","timestamp":"5:16:14 PM"}

@@ -1,0 +1,214 @@
+{"level":"info","message":"LocationController.updateUserLocation called  :+923345022570**-73.97**40.77","timestamp":"11:58:29"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"11:58:29"}
+{"level":"info","message":"location : -73.97,40.77","timestamp":"11:58:29"}
+{"level":"info","message":"User Location With Phone Num +923345022570","timestamp":"11:58:30"}
+{"level":"info","message":"LocationController.updateUserLocation called  :+92334502257rrr0**-73.97**40.77","timestamp":"11:58:35"}
+{"level":"info","message":"user not found with phone no +92334502257rrr0","timestamp":"11:58:36"}
+{"level":"info","message":"LocationController.updateUserLocation called  :+92334502257rrr0**-73ww97**40.77","timestamp":"11:58:52"}
+{"level":"info","message":"user not found with phone no +92334502257rrr0","timestamp":"11:58:52"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:16:44"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"13:16:44"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:16:44"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:16:44"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:16:44"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:17:59"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"13:17:59"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:17:59"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:17:59"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:17:59"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:20:46"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"13:20:46"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:20:46"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:20:46"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:20:46"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:21:10"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"13:21:10"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:21:10"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:21:10"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:21:10"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:26:05"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"13:26:05"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:26:05"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:26:05"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:26:05"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:28:23"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"13:28:23"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:28:23"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:28:23"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:28:23"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:29:00"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"13:29:00"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:29:00"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:29:00"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:29:00"}
+{"level":"info","message":"RegistrationController.syncContacts called  :","timestamp":"13:34:57"}
+{"level":"info","message":" Exit RegistrationController.syncContacts Method","timestamp":"13:34:57"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:37:18"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"13:37:18"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:37:18"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:37:18"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:37:18"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:40:03"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"13:40:03"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:40:03"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:40:03"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:40:03"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"13:44:32"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"13:44:32"}
+{"level":"info","message":"UserExists Method Called","timestamp":"13:44:32"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"13:44:32"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"13:44:32"}
+{"level":"info","message":"in routes get groups","timestamp":"13:45:45"}
+{"level":"info","message":"In ChatController.findAllGroups ","timestamp":"13:45:45"}
+{"level":"info","message":"In routes get single user, where phone NO. : +923345022570","timestamp":"13:50:23"}
+{"level":"info","message":"RegistrationController.syncContacts called  :","timestamp":"14:02:43"}
+{"level":"info","message":" Exit RegistrationController.syncContacts Method","timestamp":"14:02:43"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"14:03:01"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"14:03:01"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:03:01"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:03:01"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"14:03:01"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"14:04:08"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"14:04:08"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:04:08"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:04:08"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"14:04:08"}
+{"level":"info","message":"File Is uploaded","timestamp":"14:13:37"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"14:13:37"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:13:37"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:13:37"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"14:13:37"}
+{"level":"info","message":"File Is uploaded","timestamp":"14:17:33"}
+{"level":"info","message":"RegistrationController.completeProfile called for user  :+923345022570","timestamp":"14:17:33"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:17:33"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:17:33"}
+{"level":"info","message":" Exit RegistrationController.completeProfile Method","timestamp":"14:17:33"}
+{"level":"info","message":"User Found with Phone Num. :+923345022570","timestamp":"14:17:34"}
+{"level":"info","message":"User updated With Phone Num +923345022570","timestamp":"14:17:35"}
+{"level":"info","message":"RegistrationController.syncContacts called  :","timestamp":"14:28:19"}
+{"level":"info","message":" Exit RegistrationController.syncContacts Method","timestamp":"14:28:19"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"14:28:26"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"14:28:26"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:28:26"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:28:26"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"14:28:26"}
+{"level":"info","message":"User Found with Phone Num. :+923345022576","timestamp":"14:28:26"}
+{"level":"info","message":"User Exists Response : { _id: 59b8ed954b292200128914a0,\n  updatedAt: 2017-09-13T08:34:29.437Z,\n  createdAt: 2017-09-13T08:34:29.437Z,\n  phone: '+923345022576',\n  country_code: '+92',\n  verified_user: false,\n  __v: 0 }","timestamp":"14:28:26"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923345022575 - 1234","timestamp":"14:28:58"}
+{"level":"info","message":"UserExists Method Called","timestamp":"14:28:58"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"14:28:58"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"14:28:58"}
+{"level":"info","message":"User Found with Phone Num. :+923345022575","timestamp":"14:28:58"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"19:41:00"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :+923345022576","timestamp":"19:41:00"}
+{"level":"info","message":"UserExists Method Called","timestamp":"19:41:00"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"19:41:00"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"19:41:00"}
+{"level":"info","message":"User Found with Phone Num. :+923345022576","timestamp":"19:41:01"}
+{"level":"info","message":"User Exists Response : { _id: 59b8ed954b292200128914a0,\n  updatedAt: 2017-09-13T08:34:29.437Z,\n  createdAt: 2017-09-13T08:34:29.437Z,\n  phone: '+923345022576',\n  country_code: '+92',\n  verified_user: false,\n  __v: 0 }","timestamp":"19:41:01"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923345022575 - 1234","timestamp":"19:41:09"}
+{"level":"info","message":"UserExists Method Called","timestamp":"19:41:09"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"19:41:09"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"19:41:09"}
+{"level":"info","message":"User Found with Phone Num. :+923345022575","timestamp":"19:41:10"}
+{"level":"info","message":"RegistrationController.verifyCode called  :+923345022575 - 1234","timestamp":"19:41:13"}
+{"level":"info","message":"UserExists Method Called","timestamp":"19:41:13"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"19:41:13"}
+{"level":"info","message":" Exit RegistrationController.verifyCode Method","timestamp":"19:41:13"}
+{"level":"info","message":"User Found with Phone Num. :+923345022575","timestamp":"19:41:14"}
+{"level":"info","message":"An Exception Has occured in getUserLocation methodReferenceError: ChatController is not defined","timestamp":"19:55:23"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"20:08:36"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"20:08:36"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : undefined","timestamp":"20:08:36"}
+{"level":"info","message":" Error Occured While Getting conversation Uses","timestamp":"20:08:36"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"20:10:07"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"20:10:07"}
+{"level":"info","message":"2 members Found","timestamp":"20:10:08"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 2","timestamp":"20:10:08"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"20:11:18"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"20:11:18"}
+{"level":"info","message":"2 members Found","timestamp":"20:11:19"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 2","timestamp":"20:11:19"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"20:19:20"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"20:19:20"}
+{"level":"info","message":"2 members Found","timestamp":"20:19:21"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 2","timestamp":"20:19:21"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"20:19:22"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"20:19:22"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"20:23:32"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"20:23:32"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"20:24:03"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"20:24:03"}
+{"level":"info","message":"2 members Found","timestamp":"20:24:05"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 2","timestamp":"20:24:05"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"20:24:05"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"20:24:05"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"20:25:46"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"20:25:46"}
+{"level":"info","message":"2 members Found","timestamp":"20:25:50"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 2","timestamp":"20:25:50"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"20:25:51"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"20:25:51"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"20:27:09"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"20:27:09"}
+{"level":"info","message":"2 members Found","timestamp":"20:27:12"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 2","timestamp":"20:27:12"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"20:27:13"}
+{"level":"info","message":"Adding User in list :+923311334441","timestamp":"20:27:13"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"20:27:13"}
+{"level":"info","message":"Adding User in list :+923345022570","timestamp":"20:27:13"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"20:28:55"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"20:28:55"}
+{"level":"info","message":"2 members Found","timestamp":"20:28:59"}
+{"level":"info","message":"findConversationMembers Response, Members List Size : 2","timestamp":"20:28:59"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"20:28:59"}
+{"level":"info","message":"Adding User in list :+923311334441","timestamp":"20:28:59"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"20:28:59"}
+{"level":"info","message":"Adding User in list :+923345022570","timestamp":"20:28:59"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"20:42:01"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"20:42:01"}
+{"level":"info","message":"2 members Found","timestamp":"20:42:01"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"20:42:01"}
+{"level":"info","message":"Adding User in list :+923311334441","timestamp":"20:42:01"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"20:42:03"}
+{"level":"info","message":"Adding User in list :+923345022570","timestamp":"20:42:03"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"20:44:01"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"20:44:01"}
+{"level":"info","message":"2 members Found","timestamp":"20:44:07"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"20:44:08"}
+{"level":"info","message":"Adding User in list :+923311334441","timestamp":"20:44:08"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"20:44:08"}
+{"level":"info","message":"Adding User in list :+923345022570","timestamp":"20:44:08"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"22:16:14"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"22:16:14"}
+{"level":"info","message":"2 members Found","timestamp":"22:16:17"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"22:16:17"}
+{"level":"info","message":"Adding User in list :+923311334441","timestamp":"22:16:17"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"22:16:17"}
+{"level":"info","message":"Adding User in list :+923345022570","timestamp":"22:16:17"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"22:20:03"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"22:20:03"}
+{"level":"info","message":"2 members Found","timestamp":"22:20:04"}
+{"level":"info","message":"user found with phone no +923311334441","timestamp":"22:20:04"}
+{"level":"info","message":"Adding User in list :+923311334441","timestamp":"22:20:04"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"22:20:04"}
+{"level":"info","message":"Adding User in list :+923345022570","timestamp":"22:20:04"}
+{"level":"info","message":"In LocationController.getGroupUserLocations ","timestamp":"22:35:52"}
+{"level":"info","message":"In ChatController.findConversationMembers ","timestamp":"22:35:52"}
+{"level":"info","message":" Error Occured While Getting conversation Uses : CastError: Cast to ObjectId failed for value \"5922\" at path \"_conversationId\" for model \"ConversationUser\"","timestamp":"22:35:52"}
+{"level":"info","message":"LocationController.updateUserLocation called  :+923345022570**undefined**undefined","timestamp":"22:55:55"}
+{"level":"info","message":"user found with phone no +923345022570","timestamp":"22:55:55"}
+{"level":"info","message":"location : 73.0923786,33.5212304","timestamp":"22:55:55"}
+{"level":"error","message":"Some Error while updating userValidationError: loc: Cast to Array failed for value \"[ undefined, undefined ]\" at path \"loc\"","timestamp":"22:55:55"}
+{"level":"info","message":"In Controller updatePlayerId Method","timestamp":"22:57:20"}
+{"level":"info","message":"Updating player Id for :+923345022570","timestamp":"22:57:21"}
+{"level":"info","message":"In Controller updatePlayerId Method","timestamp":"22:57:32"}
+{"level":"info","message":"Error in Updating player Id for :+923345022qwq570","timestamp":"22:57:33"}
+{"level":"info","message":"In Controller updatePlayerId Method","timestamp":"23:02:34"}
+{"level":"info","message":"Updating player Id for :+923345022570","timestamp":"23:02:37"}
+{"level":"info","message":"In Controller updatePlayerId Method","timestamp":"23:04:17"}
+{"level":"info","message":"Updating player Id for :+923345022570","timestamp":"23:04:17"}
+{"level":"info","message":"In Controller updatePlayerId Method","timestamp":"23:04:24"}
+{"level":"info","message":"Error in Updating player Id for :+92334ss5022570","timestamp":"23:04:24"}
+{"level":"info","message":"In Controller updatePlayerId Method","timestamp":"23:04:34"}
+{"level":"info","message":"Updating player Id for :+923345022570","timestamp":"23:04:34"}

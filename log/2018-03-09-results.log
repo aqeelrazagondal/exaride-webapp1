@@ -1,0 +1,224 @@
+{"level":"info","message":"In routes get users","timestamp":"11:53:08"}
+{"level":"info","message":"2 Users Found","timestamp":"11:53:09"}
+{"level":"info","message":"Response Of findAllUser Method","timestamp":"11:53:09"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:23:45"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34314619988","timestamp":"12:23:46"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:23:46"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:23:46"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:23:46"}
+{"level":"info","message":"User Not Found with Phone Num. :34314619988","timestamp":"12:23:47"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:23:47"}
+{"level":"info","message":"User Created With Phone Num 34314619988","timestamp":"12:23:47"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:23:56"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34314614488","timestamp":"12:23:56"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:23:56"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:23:56"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:23:56"}
+{"level":"info","message":"User Not Found with Phone Num. :34314614488","timestamp":"12:23:56"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:23:56"}
+{"level":"info","message":"User Created With Phone Num 34314614488","timestamp":"12:23:56"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:01"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34554614488","timestamp":"12:24:01"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:01"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:01"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:01"}
+{"level":"info","message":"User Not Found with Phone Num. :34554614488","timestamp":"12:24:01"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:01"}
+{"level":"info","message":"User Created With Phone Num 34554614488","timestamp":"12:24:01"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:11"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :3455461774488","timestamp":"12:24:11"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:11"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:11"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:11"}
+{"level":"info","message":"User Not Found with Phone Num. :3455461774488","timestamp":"12:24:11"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:11"}
+{"level":"info","message":"User Created With Phone Num 3455461774488","timestamp":"12:24:11"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:15"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34554641774488","timestamp":"12:24:15"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:15"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:15"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:15"}
+{"level":"info","message":"User Not Found with Phone Num. :34554641774488","timestamp":"12:24:15"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:15"}
+{"level":"info","message":"User Created With Phone Num 34554641774488","timestamp":"12:24:15"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:21"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34554674488","timestamp":"12:24:21"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:21"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:21"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:21"}
+{"level":"info","message":"User Not Found with Phone Num. :34554674488","timestamp":"12:24:21"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:21"}
+{"level":"info","message":"User Created With Phone Num 34554674488","timestamp":"12:24:21"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:25"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :345574488","timestamp":"12:24:25"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:25"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:25"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:25"}
+{"level":"info","message":"User Not Found with Phone Num. :345574488","timestamp":"12:24:25"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:25"}
+{"level":"info","message":"User Created With Phone Num 345574488","timestamp":"12:24:25"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:28"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34557448","timestamp":"12:24:28"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:28"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:28"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:28"}
+{"level":"info","message":"User Not Found with Phone Num. :34557448","timestamp":"12:24:28"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:28"}
+{"level":"info","message":"User Created With Phone Num 34557448","timestamp":"12:24:28"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:31"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34557448","timestamp":"12:24:31"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:31"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:31"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:31"}
+{"level":"info","message":"User Found with Phone Num. :34557448","timestamp":"12:24:32"}
+{"level":"info","message":"User Exists Response : { _id: 5aa236ac4d82fc0994be459d,\n  updatedAt: 2018-03-09T07:24:28.957Z,\n  createdAt: 2018-03-09T07:24:28.957Z,\n  phone: '34557448',\n  country_code: '+92',\n  verified_user: false,\n  verification_code: '2652',\n  __v: 0,\n  last_shared_loc_time: 2018-03-09T07:24:28.957Z,\n  share_loc_flag_time: 2018-03-09T07:24:28.957Z,\n  share_location: true,\n  deactivate_user: false,\n  profile_photo_url: null }","timestamp":"12:24:32"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:34"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :3455744558","timestamp":"12:24:34"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:34"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:34"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:34"}
+{"level":"info","message":"User Not Found with Phone Num. :3455744558","timestamp":"12:24:34"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:34"}
+{"level":"info","message":"User Created With Phone Num 3455744558","timestamp":"12:24:34"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:37"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34557445558","timestamp":"12:24:37"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:37"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:37"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:37"}
+{"level":"info","message":"User Not Found with Phone Num. :34557445558","timestamp":"12:24:37"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:37"}
+{"level":"info","message":"User Created With Phone Num 34557445558","timestamp":"12:24:37"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:40"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34557445558","timestamp":"12:24:40"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:40"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:40"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:40"}
+{"level":"info","message":"User Found with Phone Num. :34557445558","timestamp":"12:24:40"}
+{"level":"info","message":"User Exists Response : { _id: 5aa236b54d82fc0994be459f,\n  updatedAt: 2018-03-09T07:24:37.553Z,\n  createdAt: 2018-03-09T07:24:37.553Z,\n  phone: '34557445558',\n  country_code: '+92',\n  verified_user: false,\n  verification_code: '0037',\n  __v: 0,\n  last_shared_loc_time: 2018-03-09T07:24:37.553Z,\n  share_loc_flag_time: 2018-03-09T07:24:37.553Z,\n  share_location: true,\n  deactivate_user: false,\n  profile_photo_url: null }","timestamp":"12:24:40"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:43"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :3455744555558","timestamp":"12:24:43"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:43"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:43"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:43"}
+{"level":"info","message":"User Not Found with Phone Num. :3455744555558","timestamp":"12:24:43"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:43"}
+{"level":"info","message":"User Created With Phone Num 3455744555558","timestamp":"12:24:43"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:47"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34557544555558","timestamp":"12:24:47"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:47"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:47"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:47"}
+{"level":"info","message":"User Not Found with Phone Num. :34557544555558","timestamp":"12:24:47"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:47"}
+{"level":"info","message":"User Created With Phone Num 34557544555558","timestamp":"12:24:47"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:51"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34557544555558","timestamp":"12:24:51"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:51"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:51"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:51"}
+{"level":"info","message":"User Found with Phone Num. :34557544555558","timestamp":"12:24:51"}
+{"level":"info","message":"User Exists Response : { _id: 5aa236bf4d82fc0994be45a1,\n  updatedAt: 2018-03-09T07:24:47.722Z,\n  createdAt: 2018-03-09T07:24:47.722Z,\n  phone: '34557544555558',\n  country_code: '+92',\n  verified_user: false,\n  verification_code: '0259',\n  __v: 0,\n  last_shared_loc_time: 2018-03-09T07:24:47.722Z,\n  share_loc_flag_time: 2018-03-09T07:24:47.721Z,\n  share_location: true,\n  deactivate_user: false,\n  profile_photo_url: null }","timestamp":"12:24:51"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:54"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34557555558","timestamp":"12:24:54"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:54"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:54"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:54"}
+{"level":"info","message":"User Not Found with Phone Num. :34557555558","timestamp":"12:24:54"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:54"}
+{"level":"info","message":"User Created With Phone Num 34557555558","timestamp":"12:24:54"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:24:57"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :345575558","timestamp":"12:24:57"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:24:57"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:24:57"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:24:57"}
+{"level":"info","message":"User Not Found with Phone Num. :345575558","timestamp":"12:24:57"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:24:57"}
+{"level":"info","message":"User Created With Phone Num 345575558","timestamp":"12:24:57"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:25:01"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :345558","timestamp":"12:25:01"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:25:01"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:25:01"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:25:01"}
+{"level":"info","message":"User Not Found with Phone Num. :345558","timestamp":"12:25:01"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:25:01"}
+{"level":"info","message":"User Created With Phone Num 345558","timestamp":"12:25:01"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:25:05"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :3455458","timestamp":"12:25:05"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:25:05"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:25:05"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:25:05"}
+{"level":"info","message":"User Not Found with Phone Num. :3455458","timestamp":"12:25:05"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:25:05"}
+{"level":"info","message":"User Created With Phone Num 3455458","timestamp":"12:25:05"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:25:08"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34554458","timestamp":"12:25:08"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:25:08"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:25:08"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:25:08"}
+{"level":"info","message":"User Not Found with Phone Num. :34554458","timestamp":"12:25:08"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:25:08"}
+{"level":"info","message":"User Created With Phone Num 34554458","timestamp":"12:25:08"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:25:11"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :345544458","timestamp":"12:25:11"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:25:11"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:25:11"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:25:11"}
+{"level":"info","message":"User Not Found with Phone Num. :345544458","timestamp":"12:25:11"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:25:11"}
+{"level":"info","message":"User Created With Phone Num 345544458","timestamp":"12:25:11"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:25:14"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :3455444458","timestamp":"12:25:14"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:25:14"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:25:14"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:25:14"}
+{"level":"info","message":"User Not Found with Phone Num. :3455444458","timestamp":"12:25:14"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:25:14"}
+{"level":"info","message":"User Created With Phone Num 3455444458","timestamp":"12:25:14"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:25:16"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34554444458","timestamp":"12:25:16"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:25:16"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:25:16"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:25:16"}
+{"level":"info","message":"User Not Found with Phone Num. :34554444458","timestamp":"12:25:16"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:25:16"}
+{"level":"info","message":"User Created With Phone Num 34554444458","timestamp":"12:25:16"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:25:19"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :345544444548","timestamp":"12:25:19"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:25:19"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:25:19"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:25:19"}
+{"level":"info","message":"User Not Found with Phone Num. :345544444548","timestamp":"12:25:19"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:25:19"}
+{"level":"info","message":"User Created With Phone Num 345544444548","timestamp":"12:25:19"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:25:23"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :344548","timestamp":"12:25:23"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:25:23"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:25:23"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:25:23"}
+{"level":"info","message":"User Not Found with Phone Num. :344548","timestamp":"12:25:23"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:25:23"}
+{"level":"info","message":"User Created With Phone Num 344548","timestamp":"12:25:23"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:25:27"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :3445448","timestamp":"12:25:27"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:25:27"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:25:27"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:25:27"}
+{"level":"info","message":"User Not Found with Phone Num. :3445448","timestamp":"12:25:27"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:25:27"}
+{"level":"info","message":"User Created With Phone Num 3445448","timestamp":"12:25:27"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:25:31"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :344542248","timestamp":"12:25:31"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:25:31"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:25:31"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:25:31"}
+{"level":"info","message":"User Not Found with Phone Num. :344542248","timestamp":"12:25:31"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:25:31"}
+{"level":"info","message":"User Created With Phone Num 344542248","timestamp":"12:25:31"}
+{"level":"verbose","message":"verificationcode-POST called ","timestamp":"12:25:35"}
+{"level":"info","message":"RegistrationController.sendVerificationCode called  :34454112248","timestamp":"12:25:35"}
+{"level":"info","message":"UserExists Method Called","timestamp":"12:25:35"}
+{"level":"info","message":" Exit UserExists Method","timestamp":"12:25:35"}
+{"level":"info","message":" Exit RegistrationController.sendVerificationCode Method","timestamp":"12:25:35"}
+{"level":"info","message":"User Not Found with Phone Num. :34454112248","timestamp":"12:25:35"}
+{"level":"info","message":"User Exists Response : null","timestamp":"12:25:35"}
+{"level":"info","message":"User Created With Phone Num 34454112248","timestamp":"12:25:35"}
